@@ -1,0 +1,19 @@
+{
+  "searchTerms": [
+    "QUERY PT-BR",
+    "variacao sem acento"
+  ],
+  "searchPosts": true,
+  "searchComments": false,
+  "searchSort": "top",
+  "searchTime": "year",
+  "maxPostsCount": 15,
+  "crawlCommentsPerPost": false,
+  "includeNSFW": false,
+  "proxy": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}

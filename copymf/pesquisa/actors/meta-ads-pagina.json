@@ -1,0 +1,13 @@
+{
+  "urls": [
+    {
+      "url": "https://www.facebook.com/PAGINA-DO-ANUNCIANTE/"
+    }
+  ],
+  "count": 100,
+  "limitPerSource": 100,
+  "scrapeAdDetails": false,
+  "scrapePageAds.activeStatus": "active",
+  "scrapePageAds.countryCode": "BR",
+  "scrapePageAds.sortBy": "most_recent"
+}

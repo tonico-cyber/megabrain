@@ -1,0 +1,8 @@
+{
+  "directUrls": [
+    "https://www.instagram.com/explore/tags/HASHTAG/"
+  ],
+  "resultsType": "posts",
+  "resultsLimit": 25,
+  "onlyPostsNewerThan": "3 months"
+}

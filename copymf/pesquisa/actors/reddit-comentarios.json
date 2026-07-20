@@ -1,0 +1,16 @@
+{
+  "startUrls": [
+    "https://www.reddit.com/r/SUB/comments/POST_ID/titulo/"
+  ],
+  "crawlCommentsPerPost": true,
+  "maxCommentsPerPost": 30,
+  "searchPosts": false,
+  "searchComments": false,
+  "includeNSFW": false,
+  "proxy": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}

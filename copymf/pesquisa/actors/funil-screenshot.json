@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "URL-DA-LP"
+  ],
+  "fullPage": true,
+  "waitUntil": "networkidle",
+  "delayAfterScrolling": 3000
+}

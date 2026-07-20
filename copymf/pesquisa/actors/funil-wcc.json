@@ -1,0 +1,13 @@
+{
+  "startUrls": [
+    {
+      "url": "LINK_URL-COMPLETO-DO-AD-COM-fbclid"
+    }
+  ],
+  "crawlerType": "playwright:firefox",
+  "maxCrawlPages": 1,
+  "maxCrawlDepth": 0,
+  "dynamicContentWaitSecs": 10,
+  "saveMarkdown": true,
+  "saveHtml": true
+}

@@ -1,0 +1,9 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID"
+    }
+  ],
+  "maxComments": 400,
+  "sortCommentsBy": "TOP_COMMENTS"
+}

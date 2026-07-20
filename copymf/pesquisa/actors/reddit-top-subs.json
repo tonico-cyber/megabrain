@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://www.reddit.com/r/Menopause/top/?t=month"
+  ],
+  "sort": "top",
+  "timeFilter": "month",
+  "maxPostsPerSource": 15,
+  "includeComments": false,
+  "deduplicatePosts": true
+}

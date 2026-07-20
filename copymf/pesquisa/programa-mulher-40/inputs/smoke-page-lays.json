@@ -1,0 +1,10 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=2016271568674266&search_type=page&media_type=all"
+  }
+ ],
+ "count": 30,
+ "limitPerSource": 30,
+ "scrapeAdDetails": false
+}

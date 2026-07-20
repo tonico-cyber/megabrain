@@ -1,0 +1,10 @@
+# Segredos — NUNCA versionar
+copymf/pesquisa/.env
+*.env
+
+# Estado local / runtime (específico de cada máquina)
+.claude/settings.local.json
+copymf/.active-brand
+
+# macOS
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "searchQueries": [
+    "QUERY AQUI",
+    "OUTRA QUERY"
+  ],
+  "country": "BR",
+  "activeStatus": "active",
+  "mediaType": "all",
+  "maxAds": 50
+}

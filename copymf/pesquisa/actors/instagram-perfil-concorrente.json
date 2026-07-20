@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    "perfil_concorrente"
+  ],
+  "resultsPerProfile": 25,
+  "includeComments": false,
+  "commentsSortOrder": "popular",
+  "commentsLimit": 15
+}

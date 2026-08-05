@@ -19,7 +19,9 @@ modelando o que já vende.
 | **`SISTEMA.md`** | a metodologia completa — leis, coordenadas, dispersão, semana, gates, multi-marca |
 | **`MESA-SEGUNDA.md`** | cartão de 1 página do ritual semanal. Imprime e cola na parede. |
 | **`COORDENADAS.md`** | a tabela canônica de códigos: 4 funis, 44 segmentos, 29 ângulos, 51 formatos, 4 porta-vozes |
-| **`coordenadas.json`** | 🤖 **a mesma tabela, estruturada para o sistema interno consumir** |
+| **`coordenadas.json`** | 🤖 **a tabela de códigos, estruturada para o sistema consumir** |
+| **`swipe.json`** | 🤖 **as 102 peças do swipe classificadas nas coordenadas** — é daqui que sai a gêmea de cada peça nova |
+| **`GERADOR.md`** | 🤖 spec do gerador de Ordem de Produção: entra funil + quantidade, sai N coordenadas com dispersão garantida |
 | **`PADRAO-DE-ESCRITA.md`** | como a copy tem que soar. Complementa a régua de 12 critérios. |
 | **`ledger/`** | uma planilha por funil. É o cérebro do sistema. |
 | **`corpos/`** | os vencedores resgatados, com coordenadas e placar |
@@ -48,11 +50,12 @@ modelando o que já vende.
 
 ✅ Metodologia documentada · **44 segmentos numerados nos 4 funis** · 29 ângulos com código na
 biblioteca · bloco H de formatos no catálogo · `coordenadas.json` para o sistema · padrão de
-escrita escrito
+escrita escrito · **swipe indexado (102 peças)** · gerador especificado
 ⬜ Vencedores da casa ainda **não** resgatados para o `corpos/` nem para o swipe interno
 ⬜ Ledger sem nenhuma linha de performance preenchida
 ⬜ Fichas de porta-voz não escritas (inclui o CREF × CRN da Suéllen)
 ⬜ `/copymf` ainda não integrado à fábrica
+⬜ Gerador especificado (`GERADOR.md`) mas ainda não implementado no sistema
 
 > **A fábrica só liga quando o ledger tiver a primeira coluna de performance com dado real.**
 > A tarefa de maior retorno hoje é a Parte 9 (Semana Zero), Dias 1-2: resgatar os vencedores

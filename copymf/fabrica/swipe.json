@@ -1,0 +1,2921 @@
+{
+ "versao": "1.0",
+ "atualizado_em": "2026-08-05",
+ "descricao": "Índice das peças do swipe classificadas nas coordenadas canônicas. Usado pelo gerador de Ordem de Produção para sugerir a gêmea de cada peça nova.",
+ "total": 102,
+ "calibram_regua": 69,
+ "pecas": [
+  {
+   "id": "Bodyfast Ad 1",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A22",
+    "A21"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "reframe paradoxal ('gordura é comida estocada') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "gordura estocada que não queima",
+   "por_que_funciona": "Explica o mecanismo inteiro (sem caloria na barriga → corpo usa gordura como combustível) em 3 frases e fecha em teste, sem pedir crença em nada externo.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 2",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A02",
+    "A15",
+    "A28"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "comer o dia inteiro",
+   "tipo_prova": "nenhuma",
+   "hook_device": "desafio frontal",
+   "calibra_regua": false,
+   "tema": "comer o dia inteiro te deixa fraco",
+   "por_que_funciona": "'Trigger warning' compra o scroll e a acusação seguinte transfere a culpa do avatar para um hábito que ele repete todo dia — é a peça mais forte do lote (citada como referência de Desafio Frontal na lente de hooks).",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 3",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A21",
+   "angulo_nome": "Promessa",
+   "angulos_secundarios": [
+    "A01"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "promessa direta ('a forma mais natural de queimar gordura') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "queimar gordura sem dieta",
+   "por_que_funciona": "É hook-swap puro do Ad 2 com o corpo congelado — prova operacional de que só o primeiro terço gira; o hook em si é o mais fraco do lote (promessa de categoria, zero gap).",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 4",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A15",
+   "angulo_nome": "Estado Final/Dream Outcome",
+   "angulos_secundarios": [
+    "A05",
+    "A10"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "status ao vivo em 1ª pessoa ('estou na 18ª hora do meu jejum agora') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "energia e clareza dentro do jejum",
+   "por_que_funciona": "O 'agora' em tempo real cria presença e credibilidade sem prova externa; falha na régua da casa por citar o produto no meio do ad e empilhar lavanderia de benefícios.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 5",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A04",
+    "A01",
+    "A13"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "anti-conselho",
+   "calibra_regua": false,
+   "tema": "contar caloria não é o problema",
+   "por_que_funciona": "Concorda com a crença nº1 do mercado (déficit calórico) para virar a mesa em uma frase — 'mesma comida, horário diferente' remove o atrito da dieta sem negar a fisiologia que o avatar já aceita.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 6",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A15",
+   "angulo_nome": "Estado Final/Dream Outcome",
+   "angulos_secundarios": [
+    "A10",
+    "A16",
+    "A25"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "timeline futura ('o que vai acontecer se você tentar') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "o que muda em 1, 2 e 4 semanas",
+   "por_que_funciona": "Future pacing semana a semana com sintomas em ordem crescente (menos inchaço → sono → sem compulsão → os outros notaram) faz o avatar pré-viver o resultado e ancora expectativa realista de prazo.",
+   "modelar_para": [
+    "J20",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 7",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A22",
+    "A21"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "promessa-atalho ('cheat code') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "comer o que quiser e ficar magro",
+   "por_que_funciona": "'Cheat code' vende brecha, não esforço — e a dose temporal concreta (16 horas, todo dia) dá ao atalho uma regra executável em vez de promessa vaga.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 8",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A16",
+   "angulo_nome": "Desafio/Experimento",
+   "angulos_secundarios": [
+    "A13",
+    "A15"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "desafio frontal",
+   "calibra_regua": false,
+   "tema": "cético que nunca testou jejum",
+   "por_que_funciona": "Transfere o ônus da prova para o próprio avatar com prazo e dose fechados (18h por 30 dias) e cinco 'veja se você não...' que são benefícios disfarçados de aposta — o modelo canônico de Desafio Frontal do swipe.",
+   "modelar_para": [
+    "J20",
+    "M40+",
+    "UI"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Bodyfast Ad 9",
+   "fonte": "externa",
+   "origem": "Bodyfast (app de jejum, EUA)",
+   "angulo": "A15",
+   "angulo_nome": "Estado Final/Dream Outcome",
+   "angulos_secundarios": [
+    "A05",
+    "A10"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "status ao vivo em 1ª pessoa ('estou na 18ª hora do meu jejum agora') — fora dos devices da casa",
+   "calibra_regua": false,
+   "tema": "energia e clareza dentro do jejum",
+   "por_que_funciona": "Repost idêntico ao Ad 4 — o valor de swipe está na durabilidade (mesma peça rodando de novo), não na copy; confirma o padrão 'winner é sistema, não peça'.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/bodyfast.md"
+  },
+  {
+   "id": "Organifi Ad 1",
+   "fonte": "externa",
+   "origem": "Organifi / Drew Canole — parasite cleanse (EUA)",
+   "angulo": "A09",
+   "angulo_nome": "Prova Social/Fenômeno em Massa",
+   "angulos_secundarios": [
+    "A02",
+    "A27",
+    "A12",
+    "A20"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A4",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "parasitas que sequestram seus neurotransmissores",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "estatistica de prevalencia em massa",
+   "calibra_regua": false,
+   "tema": "ansiedade, humor e pele sem causa",
+   "por_que_funciona": "Corte de podcast com dois especialistas concordando: a validacao social do '90% tem parasitas' + tradicao herbalista de 35 anos cria permissao para acreditar sem que ninguem esteja 'vendendo'.",
+   "modelar_para": [
+    "D3F"
+   ],
+   "arquivo": "externos/drew-canole-organifi.md"
+  },
+  {
+   "id": "Organifi Ad 2",
+   "fonte": "externa",
+   "origem": "Organifi / Drew Canole — parasite cleanse (EUA)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A09",
+    "A02",
+    "A08",
+    "A10"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A2",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "round worms e pin worms — os 'freeloaders' oportunistas",
+   "tipo_prova": "case com numero",
+   "hook_device": "demonstracao visceral na tela",
+   "calibra_regua": false,
+   "tema": "vermes escondidos causando sintomas cronicos",
+   "por_que_funciona": "Cada ingrediente ganha um verbo fisico e uma analogia domestica (paralisa, nocauteia, enrola num cobertorzinho, arrasta pra fora) — o leitor VE o mecanismo acontecendo em vez de acreditar num claim.",
+   "modelar_para": [
+    "D3F"
+   ],
+   "arquivo": "externos/drew-canole-organifi.md"
+  },
+  {
+   "id": "Organifi Ad 3",
+   "fonte": "externa",
+   "origem": "Organifi / Drew Canole — parasite cleanse (EUA)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A02",
+    "A28",
+    "A06",
+    "A13"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "os 'passageiros' — residuo parasitario entupindo os ductos biliares",
+   "tipo_prova": "autoteste",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "barriga dura que nao sai",
+   "por_que_funciona": "Empilha os beats da casa: acusacao que inverte a culpa no hook, sintoma-espelho hiperespecifico ('a barriga dura que nao mexe, nao e pizza'), absolvicao literal ('voce nao se largou') e garantia que vira autoteste ('se voce nao ver vermes, dinheiro de volta').",
+   "modelar_para": [
+    "J20",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/drew-canole-organifi.md"
+  },
+  {
+   "id": "EMMA Ad 1",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — 7-second liver reset (fígado & metabolismo, EUA)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A04",
+    "A02",
+    "A08",
+    "A20"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "fígado entupido / limite diário de toxinas → de novo lipogênese (gordura como barril de lixo nuclear)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "barriga que não sai por fígado tóxico",
+   "por_que_funciona": "Empilha 4 hooks de teste no topo, mata água com limão e vinagre de maçã em staccato e neutraliza a caneta pelo mecanismo (bactéria magra que faz GLP-1 natural) — sofisticação 4-5 sem citar o produto.",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 2",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — versão colesterol (médico narrador, história da Anna)",
+   "angulo": "A12",
+   "angulo_nome": "Autoridade Revela",
+   "angulos_secundarios": [
+    "A01",
+    "A04",
+    "A05",
+    "A14",
+    "A11"
+   ],
+   "formato_bloco": "B",
+   "formato_codigo": "B6",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "fígado sobrecarregado (80% do colesterol vem dele) — e o playbook cortar-ovo + estatina",
+   "tipo_prova": "case com número",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "colesterol alto que não cede com dieta",
+   "por_que_funciona": "3ª peça mais forte do swipe: médico confessa que a própria categoria erra, o conselho oficial vira assassino ('that's the advice that killed Anna's father'), mecanismo 80/20 traduzido em ralo entupido e caso Anna com número (47 anos, 300, 3 meses).",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 3",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — versão colesterol (mecanismo proprietário 'cholesterol pits')",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A23",
+    "A04",
+    "A14",
+    "A07"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "cholesterol pits (clathrin-coated pits) entupidos de gordura",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "LDL que sobe mesmo cortando comida",
+   "por_que_funciona": "Melhor invenção de mecanismo proprietário do swipe: rebatiza uma estrutura real ('cientistas chamam de X, eu chamo de poço de colesterol'), explica com lixo de cozinha por que dieta e estatina não esvaziam o poço, e o CTA fecha com custo de ignorar em camadas.",
+   "modelar_para": [
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 4",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — versão fígado gorduroso (listicle de medo)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A14",
+    "A18",
+    "A05",
+    "A23"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "longo",
+   "beat_map": "listicle-contrarian",
+   "vilao": "fígado gorduroso e suas 5 consequências nomeadas (ectopic fat deposition, encefalopatia hepática, lipotoxicidade, cirrose, morte súbita)",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "sintoma numerado",
+   "calibra_regua": false,
+   "tema": "gordura no fígado descoberta tarde demais",
+   "por_que_funciona": "Sintomas-espelho fortes (pele coçando, zumbido no ouvido, odor corporal, esquecer onde pôs a chave) + analogias domésticas (elástico apertando o coração, esponja virada pedra); mas não calibra: método sem nome nem dose temporal, zero absolvição, CTA administrativo e escada de medo (morte súbita, transplante) que reprova em compliance BR/Google.",
+   "modelar_para": [
+    "J20",
+    "D3F"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 5",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — advertorial de história pessoal (dois exames de fígado)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A10",
+    "A01",
+    "A04",
+    "A11"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E4",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "fígado tóxico em modo de sobrevivência (fatty liver syndrome) — e o médico que só mandava ter paciência",
+   "tipo_prova": "antes-depois",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "barriga e cansaço fazendo tudo certo depois dos 40",
+   "por_que_funciona": "Padrão-ouro do arco de traição médica: prova visual dupla nos 5 primeiros segundos (dois exames, 12 semanas), fala condescendente literal do médico ('Well, dear, you're not in your 20s anymore'), colapso em cena (ER, esqueceu o nome da filha) e absolvição antes da solução.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 6",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — hook-swap do Ad 2 (corpo Anna intacto)",
+   "angulo": "A21",
+   "angulo_nome": "Promessa",
+   "angulos_secundarios": [
+    "A12",
+    "A01",
+    "A05",
+    "A14"
+   ],
+   "formato_bloco": "B",
+   "formato_codigo": "B6",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "fígado sobrecarregado — e o playbook cortar-ovo + estatina",
+   "tipo_prova": "case com número",
+   "hook_device": "promessa de atalho ('quickest way') — fora dos devices canônicos, é a variável isolada do teste",
+   "calibra_regua": true,
+   "tema": "colesterol alto que não cede com dieta",
+   "por_que_funciona": "Prova viva do 'winner é sistema, não peça': congela o corpo vencedor do Ad 2 e testa só o primeiro terço, trocando o gancho de negação por promessa seca de velocidade.",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 8",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — hook-swap do Ad 5 (corpo dos dois exames intacto)",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A05",
+    "A10",
+    "A01",
+    "A04"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E4",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "fígado tóxico em modo de sobrevivência (fatty liver syndrome)",
+   "tipo_prova": "antes-depois",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "comida banal que engordura o fígado",
+   "por_que_funciona": "Cruza item banal e inocente (banana) com órgão invisível (fígado) sob o imperativo 'watch' — gap que o leitor não consegue fechar sozinho — e cola isso no corpo já validado do Ad 5; é o gêmeo exato do 'Veja o que banana faz com metabolismo lento' do D3F.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "EMMA Ad 9",
+   "fonte": "externa",
+   "origem": "EMMA / Dr. Gina Sam — repost do Ad 2 (sem hook extra)",
+   "angulo": "A12",
+   "angulo_nome": "Autoridade Revela",
+   "angulos_secundarios": [
+    "A01",
+    "A04",
+    "A05",
+    "A14",
+    "A11"
+   ],
+   "formato_bloco": "B",
+   "formato_codigo": "B6",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "fígado sobrecarregado — e o playbook cortar-ovo + estatina",
+   "tipo_prova": "case com número",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "colesterol alto que não cede com dieta",
+   "por_que_funciona": "Repost puro do corpo da Anna mantido em rotação — sinal de durabilidade do control: quando o corpo é o ativo, republicar sem tocar em nada continua performando.",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/emma-liver.md"
+  },
+  {
+   "id": "Gina Sam Ad 1",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação / saúde intestinal 50+ (EUA, advertorial longo)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A11",
+    "A04",
+    "A01",
+    "A14",
+    "A12"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "peristalse lenta — a rolha de cocô ressecado que trava a única saída",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "constipação crônica e barriga estufada 50+",
+   "por_que_funciona": "o arco de traição médica vira prova física no clímax — os cirurgiões cortaram a mãe pra raspar a fibra que os médicos mandaram comer —, e só depois disso entrega mecanismo doméstico (pasta de dente) + método com dose de 7 segundos.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 2",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação / saúde intestinal 50+ (EUA, advertorial longo)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A22",
+    "A11",
+    "A04",
+    "A08",
+    "A01"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "peristalse lenta — os músculos que empurram o cocô enfraquecem depois de certa idade",
+   "tipo_prova": "antes-depois",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "barriga de grávida por constipação 50+",
+   "por_que_funciona": "a neta de 6 anos verbaliza o sintoma mais vergonhoso (barriga de grávida) e humilha a autoridade médica na primeira linha; o corpo do Ad 1 entra intacto e o stack de 6 depoimentos antes-depois fecha com prova de peso (172→158 lb).",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 3a",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação / saúde intestinal 50+ (EUA, ad de mecanismo)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A18",
+    "A02",
+    "A04",
+    "A08"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F3",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "bactéria que paralisa o cólon (colon paralyzing bacteria)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "limpar mais de 4 vezes e vazamento fecal",
+   "por_que_funciona": "empilha três devices em 15 segundos — comando visual + sintoma numerado vergonhoso (limpar 4x) + rajada de negação (fibra? não; água? não; laxante? não) — e paga tudo com um vilão batizado e a analogia do engarrafamento que explica POR QUE a fibra piora.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 3b",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação / saúde intestinal 50+ (EUA, body-swap do Ad 3a)",
+   "angulo": "A22",
+   "angulo_nome": "Paradoxo",
+   "angulos_secundarios": [
+    "A18",
+    "A01",
+    "A04",
+    "A12"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "cocô preso tipo velcro (sem batismo próprio — é o elo fraco da peça)",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "manchas na roupa íntima e diarreia",
+   "por_que_funciona": "mesmo hook do 3a com corpo trocado: o paradoxo 'diarreia é uma forma de constipação' reposiciona um sintoma oposto dentro do mesmo problema, e a Mayo Clinic empresta credibilidade para o detalhe vergonhoso (skid marks) — mas sem vilão batizado, pontua abaixo do 3a.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 4",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação 50+ (EUA) · repost integral do Ad 1",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A11",
+    "A04",
+    "A01",
+    "A14"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "peristalse lenta — a rolha de cocô ressecado que trava a única saída",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "constipação crônica e barriga estufada 50+",
+   "por_que_funciona": "é o Ad 1 reposto sem tocar no corpo, só com micro-variações de pontuação — a prova de durabilidade do winner e a evidência prática de que o corpo é o ativo e só o primeiro terço deve girar.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 5",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação / saúde intestinal 50+ (EUA, vilão renomeado)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A02",
+    "A08",
+    "A14",
+    "A20",
+    "A12"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F3",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "síndrome do cocô de pedra (fecalith / stone poop syndrome)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "cocô endurecido e dor pra evacuar",
+   "por_que_funciona": "pega um termo médico real (fecalith) e rebatiza em linguagem de cozinha — cocô de pedra, duro como osso, duro como concreto —, escala pelo medo com números quebrados (35% das mulheres, 20% dos homens) e fecha com custo de ignorar explícito; é o melhor exemplo de batismo de vilão do swipe externo. Ressalva de compliance: o claim de AVC/morte não passa em Google/YT sem reframe.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "UI"
+   ],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Gina Sam Ad 6",
+   "fonte": "externa",
+   "origem": "Dr. Gina Sam — constipação 50+ (EUA) · seção vazia, truncada no swipe original",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "advertorial-longo",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "n/d — sem conteúdo no arquivo",
+   "calibra_regua": false,
+   "tema": "n/d — peça truncada",
+   "por_que_funciona": "não classificável: o swipe original corta em 'Ad 6' sem corpo. Campos preenchidos com o padrão da casa Gina Sam apenas para não quebrar a contagem — não usar como referência nem para calibrar régua até recuperar a transcrição.",
+   "modelar_para": [],
+   "arquivo": "externos/gina-sam-constipation.md"
+  },
+  {
+   "id": "Renan Ad 1",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A18",
+    "A07",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "gordura no fígado (via resistência insulínica)",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "sintoma numerado",
+   "calibra_regua": true,
+   "tema": "gordura no fígado e barriga",
+   "por_que_funciona": "Converte um medo mortal em autodiagnóstico imediato — axila/virilha escurecidas, verruguinhas, boca amarga, acordar pra urinar — e só depois entrega causa (insulina) e solução, então o avatar já se diagnosticou antes de ouvir a oferta.",
+   "modelar_para": [
+    "J20",
+    "D3F"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 2",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A10",
+   "angulo_nome": "Demonstração/Antes-e-Depois",
+   "angulos_secundarios": [
+    "A25",
+    "A07"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "nenhum",
+   "tipo_prova": "antes-depois",
+   "hook_device": "comando visual",
+   "calibra_regua": false,
+   "tema": "emagrecimento rápido em poucos dias",
+   "por_que_funciona": "A prova visual (duas fotos, 4 dias) faz o trabalho todo e os 3 passos são teasers não resolvidos — vence pelo criativo e pelo loop aberto, não pela copy: zero vilão, zero mecanismo, zero absolvição.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 3",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A06",
+   "angulo_nome": "Identificação/Call-out",
+   "angulos_secundarios": [
+    "A21",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "mulher 40+ que não emagrece",
+   "por_que_funciona": "Nomeia sexo + idade + fracasso específico na primeira frase e adiciona cumplicidade ('eu sei que tá difícil'), depois troca produto por relação ('eu vou ser seu médico por 7 dias') e desce o atrito pra R$9 — é o template de call-out mais limpo do swipe externo.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 4",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A22",
+   "angulo_nome": "Paradoxo",
+   "angulos_secundarios": [
+    "A01",
+    "A13",
+    "A02"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "resistência insulínica",
+   "tipo_prova": "nenhuma",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "engordar comendo pão, insulina alta",
+   "por_que_funciona": "Abre com uma contradição observável no cotidiano (mesmo pão, resultados opostos), paga em 3 linhas com o vilão nomeado e ainda inverte a objeção da restrição ('você pode manter o pãozinho'), fechando com micro-compromisso testável 'Você tem R$9?'.",
+   "modelar_para": [
+    "J20",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 5",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A18",
+    "A02",
+    "A14"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A6",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "insulina alta",
+   "tipo_prova": "nenhuma",
+   "hook_device": "sintoma numerado",
+   "calibra_regua": true,
+   "tema": "insulina alta e risco de diabetes",
+   "por_que_funciona": "Abre respondendo à crítica recorrente ('sim, eu falo muito de insulina'), o que soa a conteúdo e não a anúncio, repete o vilão como eixo e carrega custo de ignorar real (primeira etapa pra virar diabética) antes do micro-compromisso de R$67.",
+   "modelar_para": [
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 6",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A20",
+   "angulo_nome": "Comparação X vs Y",
+   "angulos_secundarios": [
+    "A07",
+    "A26"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "comando visual",
+   "calibra_regua": false,
+   "tema": "fome descontrolada e apetite",
+   "por_que_funciona": "Pega carona no termo mais quente do mercado ('o verdadeiro Ozempic da natureza') e segura pelo nome escondido da farinha, mas é listicle de props com oferta enxertada: sem vilão, sem mecanismo de por que as alternativas falham e CTA administrativo — vence por prop visual, não por copy.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 7",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A15",
+    "A10"
+   ],
+   "formato_bloco": "H",
+   "formato_codigo": "H6",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "comando visual",
+   "calibra_regua": false,
+   "tema": "cansaço, sono ruim e carências",
+   "por_que_funciona": "O autoteste ao vivo ('será que fica ruim? Hum, parece amendoim') derruba a objeção do gosto na hora, mas é exatamente a lavanderia de benefícios que a régua reprova — sono, TPM, cabelo, pele, tireoide e peso na mesma peça, sem vilão nem uma Big Idea só.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Renan Ad 8",
+   "fonte": "externa",
+   "origem": "Dr. Renan Botelho — Desafio do Jejum (BR)",
+   "angulo": "A20",
+   "angulo_nome": "Comparação X vs Y",
+   "angulos_secundarios": [
+    "A07",
+    "A15"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "comando condicional em rajada (espelho positivo do anti-conselho)",
+   "calibra_regua": false,
+   "tema": "suplementos que não resolvem o peso",
+   "por_que_funciona": "Fala com quem já gasta em creatina, whey, psílium e glucomanano e faz uma demolição por atalho ('existe algo melhor que todos esses suplementos') — mas nunca explica mecanicamente por que cada um falha, então a rajada informa em vez de revelar; funciona pelos props e pelo público já solution-aware.",
+   "modelar_para": [
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/renan-botelho.md"
+  },
+  {
+   "id": "Vshred Ad 1",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A03",
+    "A19",
+    "A07"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "nenhum (culpados difusos: excesso de cardio, low carb, pular de dieta em dieta)",
+   "tipo_prova": "nenhuma",
+   "hook_device": "listicle numerado com promessa datada ('sete coisas … em 2026')",
+   "calibra_regua": false,
+   "tema": "emagrecer sem saber o ponto de partida",
+   "por_que_funciona": "Entrega 6 conselhos aceitáveis para comprar credibilidade e usa o 7º ('cada corpo responde diferente') como ponte natural para o quiz — mas é conselho de nutricionista comum, sem vilão batizado nem mecanismo próprio.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 10",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil vídeo gratuito de alimentos)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A11",
+    "A07",
+    "A22"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "o cortisol e os alimentos que o disparam",
+   "tipo_prova": "nenhuma",
+   "hook_device": "comando visual em 1ª pessoa ('não sabia o que os ovos fazem com o cortisol até ver isso')",
+   "calibra_regua": false,
+   "tema": "alimentos ditos saudáveis e cortisol",
+   "por_que_funciona": "Cruza item banal (ovo) com processo invisível (cortisol) e sobe a temperatura com o us-vs-them ('liberados nos EUA, proibidos em outros países') — mas o mecanismo fica no nível do claim e o CTA é administrativo, sem custo de ignorar.",
+   "modelar_para": [
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 11",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil vídeo gratuito de alimentos)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A11",
+    "A07",
+    "A22"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "o cortisol e os alimentos que o disparam",
+   "tipo_prova": "nenhuma",
+   "hook_device": "comando visual em 1ª pessoa, mesmo corpo do Ad 10 trocando o alimento ('o que o frango faz com o meu cortisol')",
+   "calibra_regua": false,
+   "tema": "frango e cortisol travando o metabolismo",
+   "por_que_funciona": "Hook-swap de um só substantivo (ovo → frango) sobre corpo idêntico ao Ad 10: mostra o teste mais barato possível, trocar apenas o alimento-âncora do gancho.",
+   "modelar_para": [
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 12",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A09",
+    "A18",
+    "A02",
+    "A03"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "a gordura visceral (nomeada e explicada) + os 'metabolism killers'",
+   "tipo_prova": "case com número",
+   "hook_device": "call-out geracional + fenômeno em massa ('a geração X está recuperando o corpo de adolescente')",
+   "calibra_regua": true,
+   "tema": "gordura visceral em quem passou dos 40",
+   "por_que_funciona": "Única da leva com vilão de verdade batizado (gordura visceral) e sintoma-espelho de autodiagnóstico — anel escuro do olho, unha, veias de aranha, postura — e ainda usa vox pop com 'errado' seco para qualificar cardio e keto de cara.",
+   "modelar_para": [
+    "M40+",
+    "J20",
+    "D3F"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 2",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A02",
+    "A27",
+    "A09",
+    "A10"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' (alimentos que matam o metabolismo) + o cardio",
+   "tipo_prova": "case com número",
+   "hook_device": "rajada de negação (mito afirmado como verdade e derrubado: '…right? Not exactly')",
+   "calibra_regua": true,
+   "tema": "dieta restritiva que trava o metabolismo",
+   "por_que_funciona": "Empilha mito derrubado + prop visual (10 lb de gordura na mão) + vilão repetido 3x + demolição nominal de keto/paleo/carnívora/vegana/cardio + segredo de Hollywood + 6 depoimentos com número — é o motor que gerou 7 variações.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 3",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A12",
+   "angulo_nome": "Autoridade Revela",
+   "angulos_secundarios": [
+    "A03",
+    "A17",
+    "A09",
+    "A27"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' + o cardio de esteira (cortisol)",
+   "tipo_prova": "case com número",
+   "hook_device": "pergunta de rua (vox pop) sobre a corrida matinal + proibição condicional no beat 2 ('if you believe … you better watch this')",
+   "calibra_regua": true,
+   "tema": "cardio que não queima gordura",
+   "por_que_funciona": "Pega o corpo vencedor do Ad 2 e pluga uma camada de terceiro-endosso (Dr. Drew e a esposa investigando 'esse cara do seu feed') — quem valida o mecanismo não é quem vende, o que derruba a defesa do cético.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 4",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A04",
+    "A02",
+    "A27",
+    "A09"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' (alimentos que matam o metabolismo) + o cardio",
+   "tipo_prova": "case com número",
+   "hook_device": "promessa-tease ('the fastest way to lose weight is this') + rajada de negação sobre pão branco/arroz integral",
+   "calibra_regua": true,
+   "tema": "trocar alimento por versão integral não emagrece",
+   "por_que_funciona": "Hook-swap puro: só o primeiro terço muda (troca o mito do frango-e-arroz pelo do arroz integral) e o corpo validado é preservado intacto — prova de que o ativo é o corpo, não a peça.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 5",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A20",
+   "angulo_nome": "Comparação X vs Y",
+   "angulos_secundarios": [
+    "A03",
+    "A02",
+    "A27",
+    "A09"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' (alimentos que matam o metabolismo) + o cardio",
+   "tipo_prova": "case com número",
+   "hook_device": "pergunta-comparação A ou B com objeto na mão ('apple or donut?')",
+   "calibra_regua": true,
+   "tema": "qual alimento engorda mais",
+   "por_que_funciona": "O duelo visual maçã×rosquinha cria escolha binária que o espectador responde na cabeça em 1 segundo — e a resposta honesta ('a maçã tem menos insulina, mas não mata a vontade') compra crédito antes de emendar o corpo vencedor.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 7",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A04",
+    "A03"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum batizado (só o mito frango-arroz-brócolis)",
+   "tipo_prova": "nenhuma",
+   "hook_device": "proibição condicional ('avoid these foods if you want to lose weight fast')",
+   "calibra_regua": false,
+   "tema": "alimentos que travam a perda de peso",
+   "por_que_funciona": "É o recorte curto do winner: abre loop com 'esses alimentos', costura 3 beats de autoridade e joga no quiz em ~30s — funciona como peça de volume/retargeting, mas não paga o loop com mecanismo nem prova, então vence por mídia e não por copy.",
+   "modelar_para": [
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 8",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A03",
+    "A02",
+    "A27",
+    "A09"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' (alimentos que matam o metabolismo) + o cardio",
+   "tipo_prova": "case com número",
+   "hook_device": "anti-conselho / comando invertido ('here's a terrible way to lose weight: give up all the foods you actually like')",
+   "calibra_regua": true,
+   "tema": "frango e arroz seco sabotando o emagrecimento",
+   "por_que_funciona": "O melhor hook da família: dá a instrução errada como se fosse séria e ainda ativa a dor da privação ('abra mão de tudo que você gosta') antes de entregar o mesmo corpo validado — é a referência gringa do comando invertido da casa.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Vshred Ad 9",
+   "fonte": "externa",
+   "origem": "V Shred / B Shreds — fat loss EUA (funil quiz de body type)",
+   "angulo": "A12",
+   "angulo_nome": "Autoridade Revela",
+   "angulos_secundarios": [
+    "A17",
+    "A03",
+    "A02",
+    "A09"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "os 'metabolism killers' + o cortisol do cardio steady state",
+   "tipo_prova": "case com número",
+   "hook_device": "fala do avatar interceptada ('acho que vou cortar carbo') + 'o fato mais interessante que aprendi na última década'",
+   "calibra_regua": true,
+   "tema": "cortar carboidrato para secar a barriga",
+   "por_que_funciona": "Intercepta a decisão que o avatar está prestes a tomar e responde com o Dr. Drew explicando cortisol e recuperação de calorias — a única versão da família em que o mecanismo sai da boca de um médico, não do vendedor.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "externos/vshred.md"
+  },
+  {
+   "id": "Warrior Babe Ad 1",
+   "fonte": "externa",
+   "origem": "Warrior Babe (macro method, $27) — fitness/menopausa mulheres 45+ EUA",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A12",
+    "A09",
+    "A02"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "privação de sono → cortisol/insulina (vilão NÃO batizado)",
+   "tipo_prova": "case com número",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": false,
+   "tema": "sono ruim travando a queima de gordura",
+   "por_que_funciona": "Encadeia 4 hormônios (cortisol→insulina→grelina→leptina) para transformar um hábito que a mulher 45+ já sabe que tem na causa mecânica da gordura, e demole alternativas nomeadas (keto, apps de calorias, personal que não entende menopausa) antes de pedir os $27 — mas entrega mecanismo em jargão puro, sem analogia doméstica, sem sintoma-espelho e com CTA administrativo.",
+   "modelar_para": [
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/warrior-babe.md"
+  },
+  {
+   "id": "Warrior Babe Ad 2",
+   "fonte": "externa",
+   "origem": "Warrior Babe (macro method, $27) — fitness/menopausa mulheres 45+ EUA",
+   "angulo": "A22",
+   "angulo_nome": "Paradoxo",
+   "angulos_secundarios": [
+    "A03",
+    "A10",
+    "A07"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "dietas restritivas — keto, low carb, jejum intermitente (NÃO batizado)",
+   "tipo_prova": "antes-depois",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": false,
+   "tema": "medo de carboidrato e efeito sanfona",
+   "por_que_funciona": "Número estranho na boca da própria cliente (350 g de carbo, 2.400 kcal, six-pack em 5-6 meses) cria o paradoxo 'como mais e fico mais definida', e a demolição de keto/low carb/jejum vem com consequência mecânica visualizável ('uma versão mais magra e mais gorda de você') — o loop das 'four things' segura para o VSL, mas falta vilão batizado e CTA com custo.",
+   "modelar_para": [
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "externos/warrior-babe.md"
+  },
+  {
+   "id": "Warrior Babe Ad 3",
+   "fonte": "externa",
+   "origem": "Warrior Babe (macro method, $27) — fitness/menopausa mulheres 45+ EUA",
+   "angulo": "A15",
+   "angulo_nome": "Estado Final/Dream Outcome",
+   "angulos_secundarios": [
+    "A06",
+    "A09",
+    "A18"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "antes-depois",
+   "hook_device": "qualificação direta",
+   "calibra_regua": false,
+   "tema": "corpo e confiança depois dos 50",
+   "por_que_funciona": "Vende o estado final pela boca de uma mulher de 52 ('não me sinto de 52... como mais comida do que nunca'), o que qualifica o avatar por idade sem parecer anúncio — mas o corpo cai no 'are you tired of guessing' genérico e no loop das 'four things' sem mecanismo nenhum: identificação alta, crença baixa. É a peça mais fraca do arquivo.",
+   "modelar_para": [
+    "M40+"
+   ],
+   "arquivo": "externos/warrior-babe.md"
+  },
+  {
+   "id": "Warrior Babe Ad 4",
+   "fonte": "externa",
+   "origem": "Warrior Babe (macro method, $27) — fitness/menopausa mulheres 45+ EUA",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A03",
+    "A09",
+    "A22"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "subalimentação / medo do carboidrato (NÃO batizado)",
+   "tipo_prova": "antes-depois",
+   "hook_device": "rajada de negação",
+   "calibra_regua": false,
+   "tema": "dietas restritivas que nunca mudam o corpo",
+   "por_que_funciona": "Distribui a rajada de negação entre vozes de clientes (keto, redução calórica, a próxima dieta da vez, o gorge depois) — a demolição não soa vendedora porque é confissão, não acusação — e 'subalimentar te faz perder músculo' entrega a causa mecânica em uma frase só antes do fecho com as 'four simple methods'.",
+   "modelar_para": [
+    "M40+",
+    "J20",
+    "D3F"
+   ],
+   "arquivo": "externos/warrior-babe.md"
+  },
+  {
+   "id": "D3F01",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A19",
+   "angulo_nome": "Novidade/News-jacking",
+   "angulos_secundarios": [
+    "A01",
+    "A07"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": false,
+   "tema": "metabolismo lento e dificuldade de emagrecer",
+   "por_que_funciona": "A analogia visual (papel pegando fogo × metabolismo) cria gap real, mas o corpo entrega ciência sem fonte nomeada e CTA administrativo — não calibra a régua.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F04",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A19",
+   "angulo_nome": "Novidade/News-jacking",
+   "angulos_secundarios": [
+    "A01",
+    "A23"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": false,
+   "tema": "excesso de peso e metabolismo travado",
+   "por_que_funciona": "'Órgão que não está nos livros de anatomia' é um bom paradoxo, mas o resto é promessa genérica e o CTA joga fora a tensão ('clique no link que está em algum lugar') — não calibra a régua.",
+   "modelar_para": [
+    "D3F",
+    "UI"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F06",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A01",
+    "A19",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": true,
+   "tema": "perder barriga parece impossível",
+   "por_que_funciona": "Usa um número estranho verificável (9x mais bactérias que células) e cita instituição nomeada, o que sustenta a crença — mas o hook parte de um desejo genérico, então é o mais fraco do bloco que ainda calibra.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "UI"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F248",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A23",
+   "angulo_nome": "Mistério Científico",
+   "angulos_secundarios": [
+    "A26",
+    "A16",
+    "A03"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "para onde vai a gordura eliminada",
+   "por_que_funciona": "Quiz de 3 negações sobre uma pergunta que ninguém sabe responder (nem 93% dos nutricionistas) mantém o loop aberto até o CTA, com herói inesperado nomeado.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "UI"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F249 Lead2",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A09",
+   "angulo_nome": "Prova Social/Fenômeno em Massa",
+   "angulos_secundarios": [
+    "A08",
+    "A02",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "bactérias ruins (proliferação no intestino)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "envelhecimento acelerado e ressecamento",
+   "por_que_funciona": "Estatística de 'duas em cada três' + cascata de sintomas íntimos (partes íntimas ressecadas, temperatura em colapso) e a negação antecipada de tireoide/menopausa, que é a objeção nº1 da 40+.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F251",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A01",
+    "A04"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "bactérias ruins que fermentam",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "engorda mesmo comendo pouco",
+   "por_que_funciona": "Derruba a crença central do mercado (açúcar/carbo/gordura) na primeira frase e reposiciona a causa para dentro do corpo, com a virada 'você não é o que come, é o que seu corpo faz com o que come'.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F265.1 C3",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A07",
+    "A20",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "perfil de bactérias ruins",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": true,
+   "tema": "metabolismo lento, gordura localizada, flacidez",
+   "por_que_funciona": "Promete uma causa única para 20 problemas dispersos e ancora no número estranho (84%) + comparação com quem é 'naturalmente magra'.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F267",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A23",
+    "A26",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "bactérias ruins",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "engorda mesmo comendo pouco",
+   "por_que_funciona": "Prova viva do 'winner é sistema': hook do D3F251 colado no corpo do D3F248 — só o primeiro terço gira, o corpo validado fica congelado.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F284",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A06",
+    "A04",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "faz tudo certo e não emagrece",
+   "por_que_funciona": "Abre com a fala em 1ª pessoa da Laura e esforço quantificado (15 km/semana, 1h de academia, saladas) — mas narra o fundo do poço em resumo em vez de dramatizar em cena, então informa sem doer.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F304 Lead3",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A06",
+   "angulo_nome": "Identificação/Call-out",
+   "angulos_secundarios": [
+    "A09",
+    "A25",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A2",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "metabolismo lento depois dos 40",
+   "por_que_funciona": "Qualifica por idade + queixa exata na primeira linha e paga na hora com volume de resultado e dose temporal (3 kg em 3 dias), antes de qualquer credencial.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F419 C8",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A12",
+    "A17",
+    "A25"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A4",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "intestino inflamado e excesso de peso",
+   "por_que_funciona": "Caso extremo que não deveria existir (colostomia revertida contra o prognóstico do oncologista) contado em fala espontânea de podcast, o que dá cheiro de conversa e não de anúncio.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "UI"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F450",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A13",
+   "angulo_nome": "Objeção Invertida",
+   "angulos_secundarios": [
+    "A15",
+    "A21",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A6",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "nenhum",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "qualificação direta",
+   "calibra_regua": false,
+   "tema": "já tentei de tudo e não emagreço",
+   "por_que_funciona": "Abre com a objeção literal do avatar, mas responde com lavanderia de benefícios (humor, autoestima, saúde) sem vilão nem mecanismo — venceu por mídia, não calibra a régua.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F451",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A14",
+   "angulo_nome": "Custo da Inação",
+   "angulos_secundarios": [
+    "A03",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "nenhuma",
+   "hook_device": "proibição condicional",
+   "calibra_regua": false,
+   "tema": "efeito sanfona das dietas restritivas",
+   "por_que_funciona": "O 'se você ignorar isso' cria custo de inação em 1 linha, mas a refutação é genérica e não nomeia nada que a pessoa tentou — workhorse de mídia, não calibra a régua.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F719",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A06",
+   "angulo_nome": "Identificação/Call-out",
+   "angulos_secundarios": [
+    "A02",
+    "A21"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum (culpa genérica: inflamação crônica)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "qualificação direta",
+   "calibra_regua": false,
+   "tema": "cansaço, inchaço e 10 quilos a mais",
+   "por_que_funciona": "Call-out por sintoma-clichê (cansaço, inchaço) + estatística emprestada + credencial; segmenta mas não faz a leitora se sentir vista — não calibra a régua.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3F737 C16",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A08",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "café da manhã errado",
+   "tipo_prova": "nenhuma",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "café da manhã trava o metabolismo",
+   "por_que_funciona": "Acusa um hábito diário específico em 1 frase, absolve na sequência ('não é culpa sua') e entrega dose temporal ('resultados no terceiro dia') sem gastar palavra — short modelo.",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3FSER058 REEDIÇÃO (Stephany · Hepp)",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A10",
+   "angulo_nome": "Demonstração/Antes-e-Depois",
+   "angulos_secundarios": [
+    "A01",
+    "A02",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A2",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "zonulina (disbiose intestinal)",
+   "tipo_prova": "antes-depois",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "barriga que não desincha e cansaço",
+   "por_que_funciona": "Cruza item banal (banana) com órgão invisível, paga o hook em 2 linhas com prova visual de 12 semanas e absolve a leitora antes de nomear o vilão.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3FSER069 (Stephany · Cristiane)",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A04",
+    "A18",
+    "A08"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F3",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "zonulina",
+   "tipo_prova": "autoteste",
+   "hook_device": "sintoma numerado",
+   "calibra_regua": true,
+   "tema": "prisão de ventre, escape fecal, inchaço",
+   "por_que_funciona": "Sintoma vergonhoso hiperespecífico + vilão batizado + demolição mecânica de fibra/água/laxante + CTA com custo de ignorar: 10/12 critérios da régua numa peça só.",
+   "modelar_para": [
+    "D3F",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "D3FSER073 (Stephany · Cristiane)",
+   "fonte": "interna",
+   "origem": "Dieta das 3 Fases (D3F) · Eduardo Claas",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A01",
+    "A04",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "advertorial-longo",
+   "vilao": "fígado sobrecarregado / zonulina",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "proibição condicional",
+   "calibra_regua": true,
+   "tema": "colesterol alto e gordura no fígado",
+   "por_que_funciona": "Intercepta o conselho médico que a pessoa está prestes a seguir, refuta em rajada e explica o mecanismo com analogia doméstica (caminhão de lixo) + honestidade calibrada.",
+   "modelar_para": [
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "internos/dieta-das-3-fases.md"
+  },
+  {
+   "id": "FDV006 T3",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A03",
+    "A10",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A2",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "vírus, bactérias, fungos e parasitas",
+   "tipo_prova": "case com número",
+   "hook_device": "riram de mim",
+   "calibra_regua": true,
+   "tema": "infecções e toxinas que causam doença",
+   "por_que_funciona": "Melhor peça do funil: 'riram de mim' + ponte Tacoma dá imagem física a um mecanismo invisível — o leitor VÊ o vírus vibrando até explodir antes de precisar acreditar em qualquer promessa; é o padrão Mecanismo de Cozinha aplicado com um objeto de prova famoso.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV011 C6",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A01",
+    "A28",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "corpo intoxicado (toxinas acumuladas)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "doenças crônicas e corpo intoxicado",
+   "por_que_funciona": "Nega a categoria inteira em uma frase ('não existe doença incurável') e reduz milhares de diagnósticos a um eixo binário intoxicado/desintoxicado — simplificação radical que absolve o leitor antes de vender qualquer coisa; ponto fraco: promessa absoluta sem nenhuma concessão (anti-padrão de honestidade calibrada).",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV017",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A10",
+   "angulo_nome": "Demonstração/Antes-e-Depois",
+   "angulos_secundarios": [
+    "A01",
+    "A29"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "toxinas acumuladas no corpo",
+   "tipo_prova": "case com número",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": true,
+   "tema": "corpo intoxicado e água contaminada",
+   "por_que_funciona": "Demonstração em escala macro (um golfo inteiro limpo por som em 4 horas) fecha com a ponte lógica 'seu corpo também é 70% água' — o leitor conclui a promessa sozinho, sem o anúncio precisar prometer.",
+   "modelar_para": [
+    "D3F",
+    "UI"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV020 C3",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A11",
+    "A27",
+    "A01"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "células doentes e cancerígenas",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "células doentes e câncer sem dor",
+   "por_que_funciona": "Caso histórico com nome, ano, instituição e placar (Rife, 1934, USC, 16 de 16) transforma um claim impossível em 'fato documentado que não te contaram' — estrutura de prova excelente, claim indefensável em compliance.",
+   "modelar_para": [
+    "UI",
+    "D3F"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV143",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A12",
+   "angulo_nome": "Autoridade Revela",
+   "angulos_secundarios": [
+    "A19",
+    "A29"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "bactérias e parasitas no corpo",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "novidade institucional — sem device de gap",
+   "calibra_regua": false,
+   "tema": "dores crônicas e dependência de remédio",
+   "por_que_funciona": "Empilha validação institucional (hospitais caros, neurocirurgião e cirurgia nomeados) sem conflito, sem vilão batizado e sem arco — autoridade emprestada estática; é o formato workhorse que vence por mídia, não por copy, e por isso NÃO calibra a régua.",
+   "modelar_para": [
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV225",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A10",
+   "angulo_nome": "Demonstração/Antes-e-Depois",
+   "angulos_secundarios": [
+    "A01",
+    "A29",
+    "A23"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "toxinas, metais pesados e emoções negativas",
+   "tipo_prova": "antes-depois",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "corpo intoxicado por metais e vírus",
+   "por_que_funciona": "Versão longa do case do Golfo com detalhe sensorial no antes-depois (água marrom e turva → verde, clara, com cardumes e golfinhos em 4 horas): a prova é visual, datada e em escala impossível de ignorar, e a analogia 70% de água transfere tudo para o corpo.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "FDV253",
+   "fonte": "interna",
+   "origem": "Frequências da Vida (FDV) · Zayka Capita",
+   "angulo": "A10",
+   "angulo_nome": "Demonstração/Antes-e-Depois",
+   "angulos_secundarios": [
+    "A20",
+    "A01"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F8",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "antes-depois",
+   "hook_device": "comando visual",
+   "calibra_regua": false,
+   "tema": "vibração e água do corpo humano",
+   "por_que_funciona": "Silogismo visual de três linhas (molécula boa / molécula ruim / você é 70% água) que entrega a conclusão em 5 segundos sem som; mas o payoff é claim puro — zero mecanismo, zero imagem de como funciona — anti-padrão citado na régua, converte por criativo e não por copy.",
+   "modelar_para": [
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/frequencias-da-vida.md"
+  },
+  {
+   "id": "J20PIG 014 V2",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A12",
+    "A04"
+   ],
+   "formato_bloco": "E",
+   "formato_codigo": "E1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "os ovos (alimento 'saudável' do café da manhã)",
+   "tipo_prova": "nenhuma",
+   "hook_device": "comando visual",
+   "calibra_regua": true,
+   "tema": "o que ovos fazem com o pâncreas",
+   "por_que_funciona": "cruza item banal e concreto (ovos) com órgão invisível (pâncreas) num imperativo visual — hook-swap barato sobre corpo já validado.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20",
+    "UI"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 015",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A04",
+    "A01",
+    "A02"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "listicle-contrarian",
+   "vilao": "insulina alta / pâncreas sem descanso (glucagon dormindo)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "anti-conselho",
+   "calibra_regua": true,
+   "tema": "tudo que você faz mantém a insulina alta",
+   "por_que_funciona": "seis pares comando-errado→consequência→alternativa neutralizam todas as soluções da moda pelo mecanismo, inclusive o Mounjaro (sofisticação nível 5).",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20",
+    "UI"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 018",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A08",
+   "angulo_nome": "Medo/Sinal de Alerta",
+   "angulos_secundarios": [
+    "A18",
+    "A01",
+    "A20",
+    "A14"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "pâncreas hiperativo (fígado encharcado de gordura)",
+   "tipo_prova": "case com número (mãe com esteatose grau 3 revertida em 4 meses)",
+   "hook_device": "sintoma numerado",
+   "calibra_regua": true,
+   "tema": "sinais silenciosos de gordura no fígado",
+   "por_que_funciona": "a lista de sintomas vergonhosos (axila escurecida, verruguinha no pescoço, fezes pegajosas) faz o leitor se autodiagnosticar antes de qualquer venda.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 023",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A06",
+    "A01",
+    "A13",
+    "A10"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "pâncreas hiperativo (insulina alta × glucagon dormindo)",
+   "tipo_prova": "antes-depois com número (8cm em 3 semanas, calça do G pro M)",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "barriga teimosa que não sai com dieta nem academia",
+   "por_que_funciona": "honestidade calibrada ('eu não virei modelo') + prova sensorial do cotidiano ('o anel voltou a girar no dedo') fazem o depoimento sobreviver ao ceticismo.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 032",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A01",
+   "angulo_nome": "Novo Mecanismo",
+   "angulos_secundarios": [
+    "A07",
+    "A08",
+    "A18"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A5",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "insulina disparada pelo café da manhã (fígado encharcado / esteatose)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "pergunta-conexão",
+   "calibra_regua": true,
+   "tema": "café da manhã que trava a queima de gordura",
+   "por_que_funciona": "paga o gap em 2 linhas com mecanismo puro e traduz tudo na analogia da esponja encharcada, que explica por que a barriga incha por dentro.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 034",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A06",
+    "A01",
+    "A10",
+    "A17"
+   ],
+   "formato_bloco": "H",
+   "formato_codigo": "H3",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "ugc-cenas",
+   "vilao": "resistência à insulina / pâncreas que solta insulina o dia todo",
+   "tipo_prova": "antes-depois",
+   "hook_device": "qualificação direta em cena dialogada (a mãe que se esconde da foto de família)",
+   "calibra_regua": true,
+   "tema": "vergonha do corpo em foto de família",
+   "por_que_funciona": "dramatiza o colapso em fala direta ('por que o meu corpo me odeia?') e espelha as cenas 1-3 no depois, provando a virada sem narrar nada.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "J20PIG 062",
+   "fonte": "interna",
+   "origem": "J20 — Jejum 2.0 / Dr. Lucas Mallmann (⭐ Nicolas Toigo)",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A06",
+    "A01",
+    "A15",
+    "A10"
+   ],
+   "formato_bloco": "H",
+   "formato_codigo": "H3",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "ugc-cenas",
+   "vilao": "resistência à insulina / pâncreas que solta insulina o dia todo",
+   "tipo_prova": "antes-depois",
+   "hook_device": "qualificação direta em cena dialogada ('Amor, eu tô bonita?' / 'Tá ótima.')",
+   "calibra_regua": true,
+   "tema": "marido que não enxerga mais a esposa",
+   "por_que_funciona": "prova que winner é sistema: mesmo esqueleto do 034 com a dor trocada de filhos para casamento, corpo congelado e só o eixo emocional girando.",
+   "modelar_para": [
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/jejum-2-0.md"
+  },
+  {
+   "id": "UI029",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A03",
+   "angulo_nome": "Contrarian",
+   "angulos_secundarios": [
+    "A01",
+    "A22",
+    "A16"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "leitura lenta / métodos tradicionais (genérico)",
+   "tipo_prova": "autoteste",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "ler devagar e se distrair lendo",
+   "por_que_funciona": "Inverte uma crença que o leitor tem certeza de possuir (ler rápido diminui a compreensão) e paga com a única analogia doméstica do funil UI: trânsito lento vs corrida de kart.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI108",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A21",
+   "angulo_nome": "Promessa",
+   "angulos_secundarios": [
+    "A12",
+    "A05",
+    "A13"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum (culpa difusa: 'não te ensinaram a usar o cérebro')",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "riram de mim",
+   "calibra_regua": true,
+   "tema": "esquecimento e sensação de burrice",
+   "por_que_funciona": "O device Caples ('riram de mim') carrega um claim grande e específico (200% mais inteligente, qualquer idade) e a vindicação fica implícita — a existência do anúncio já é a prova.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI151",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A26",
+   "angulo_nome": "Herói Inesperado",
+   "angulos_secundarios": [
+    "A03",
+    "A29",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "longo",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "acreditar que genialidade é dom de nascença",
+   "por_que_funciona": "Usa a biografia de Marie Curie (2 Nobéis, pobreza, universidade que barrava mulheres) como prova de que o cérebro do gênio não era diferente — remove a desculpa genética antes de oferecer o método.",
+   "modelar_para": [
+    "UI",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI264 / UI234",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A03",
+    "A01",
+    "A26"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "acreditar que tem memória ruim",
+   "por_que_funciona": "Reframe de absolvição ('não existe memória boa ou ruim, existe treinada') provado por um caso impossível carregado de números físicos: 14 cm de crânio removido, 36 dias em coma, volta sem sequelas.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI272 3",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A04",
+   "angulo_nome": "Erro/você está fazendo errado",
+   "angulos_secundarios": [
+    "A08",
+    "A01",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "métodos tradicionais de ensino (genérico, não batizado)",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "estudar muito e não reter nada",
+   "por_que_funciona": "Acusa o comportamento que o avatar está executando agora (virar noite, decorar pilha, revisar acumulado) e transforma o esforço dele na causa do fracasso — interrompe um plano real.",
+   "modelar_para": [
+    "UI",
+    "D3F"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI28",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A03",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "acreditar que tem memória ruim",
+   "por_que_funciona": "Versão em 1ª pessoa do caso Bob Woodruff: o número estranho (14 cm de crânio) sustenta sozinho a curiosidade e o reframe 'memória é treinável'.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI28 LEAD1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A06",
+   "angulo_nome": "Identificação/Call-out",
+   "angulos_secundarios": [
+    "A29",
+    "A03",
+    "A01"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "case com número",
+   "hook_device": "qualificação direta",
+   "calibra_regua": true,
+   "tema": "não conseguir aprender novo idioma",
+   "por_que_funciona": "É o mesmo corpo validado do caso Bob Woodruff com hook-swap de qualificação (idioma) — prova prática de que o corpo congela e só o primeiro terço gira.",
+   "modelar_para": [
+    "UI",
+    "D3F"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UI31 LEAD1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — YouTube",
+   "angulo": "A21",
+   "angulo_nome": "Promessa",
+   "angulos_secundarios": [
+    "A06",
+    "A12"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "short",
+   "beat_map": "lead-curto-yt",
+   "vilao": "nenhum",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "qualificação direta",
+   "calibra_regua": false,
+   "tema": "querer melhorar a memória",
+   "por_que_funciona": "Template mais fraco do swipe interno: pergunta banal + autoridade + promessa + CTA administrativo, sem vilão, sem sintoma-espelho e sem custo de ignorar — venceu por mídia, não por copy.",
+   "modelar_para": [
+    "UI"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA 12",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A07",
+   "angulo_nome": "Curiosidade Específica",
+   "angulos_secundarios": [
+    "A03",
+    "A11",
+    "A08",
+    "A14"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "o 'bloqueio de segurança' que sufoca a memória",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "mente travada, esquecer nomes, reler",
+   "por_que_funciona": "7ª melhor peça do swipe: valida a suspeita do leitor ('você sempre esteve certo'), entrega sintoma-espelho hiperespecífico (ler a mesma frase três vezes) e fecha com custo existencial de ignorar — 'sua história, quem você é, se apaga dia após dia'.",
+   "modelar_para": [
+    "UI",
+    "J20",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA001 H2",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A22",
+    "A01",
+    "A15"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "a trava biológica que mantém o cérebro lento",
+   "tipo_prova": "estudo nominal",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "cérebro lento e potencial travado",
+   "por_que_funciona": "O paradoxo (levar pancada na cabeça e agradecer) abre um gap que só o mecanismo fecha: se o trauma REMOVEU uma trava, a trava existe em você agora — a Integração Hemisférica vira dedução lógica, não claim.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA002 H1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A13",
+    "A01",
+    "A22"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "cérebro em 'modo isolado' (barreira entre os dois hemisférios)",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "ler e não lembrar de nada",
+   "por_que_funciona": "Traz a melhor absolvição explícita do funil UI ('você não é ruim de memória, você só está usando ela do jeito errado') depois de provar com Kim Peek que a supermemória é o estado natural, não um dom.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA005 H1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A23",
+    "A01",
+    "A08"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "conexões que murcham por falta de estímulo cruzado (reserva cognitiva zerada)",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "medo de Alzheimer e de perder a lucidez",
+   "por_que_funciona": "Dois fatos verificáveis que não podem coexistir na mesma frase (cérebro destruído pelo Alzheimer + lucidez de jovem de 20) e a resolução vira o mecanismo proprietário: Reserva Cognitiva como 'super-rodovia' que desvia das áreas doentes.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA019 V1-H2 · V6-H1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A02",
+    "A08",
+    "A21"
+   ],
+   "formato_bloco": "G",
+   "formato_codigo": "G3",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "a barreira física nos neurônios (mecanismo biológico silencioso que trava a memória)",
+   "tipo_prova": "case com número",
+   "hook_device": "riram de mim",
+   "calibra_regua": true,
+   "tema": "névoa mental e palavra que some",
+   "por_que_funciona": "Único caso do funil que termina mal (Sidis, QI 250, morre com o cérebro travado) — o herói vira alerta e o leitor entra na fila da mesma ameaça; ainda insere depoimento real para prova social.",
+   "modelar_para": [
+    "UI",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA021 H1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A15",
+    "A01",
+    "A13"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "o bloqueio biológico que apaga 95% das suas experiências",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "lembranças sem nitidez, memória '2D'",
+   "por_que_funciona": "Paga o hook em 3 linhas com concretização sensorial (não é ver a foto, é sentir o cheiro e o toque da roupa) e transforma o benefício abstrato 'memória boa' em estado desejado visualizável.",
+   "modelar_para": [
+    "UI",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA028 H5",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook MeuFluxo",
+   "angulo": "A29",
+   "angulo_nome": "Estudo de Caso Estranho",
+   "angulos_secundarios": [
+    "A23",
+    "A01",
+    "A08"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "conexões principais que 'enferrujam' no estilo de vida moderno",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "medo de atrofia cerebral e Alzheimer",
+   "por_que_funciona": "O caso do francês com 90% da massa cerebral perdida é o número mais estranho do funil e justifica o mecanismo batizado ('Rota de Fuga Neural') + dose temporal de 15 minutos em casa.",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA031 H1",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo — Facebook Dr. Marcelo Roxo",
+   "angulo": "A26",
+   "angulo_nome": "Herói Inesperado",
+   "angulos_secundarios": [
+    "A29",
+    "A01",
+    "A16"
+   ],
+   "formato_bloco": "F",
+   "formato_codigo": "F1",
+   "nc": "P",
+   "tamanho": "longo",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "o 'músculo' cerebral atrofiado por método errado de aprendizado",
+   "tipo_prova": "case com número",
+   "hook_device": "paradoxo humano",
+   "calibra_regua": true,
+   "tema": "mente lenta, demorar para aprender",
+   "por_que_funciona": "Escolhe o herói mais modelável do swipe (Ben Pridmore não nasceu gênio, nunca teve nota boa) e ancora tudo num número não-redondo — baralho inteiro em 24 segundos; traz 3 hooks para hook-swap sobre o mesmo corpo.",
+   "modelar_para": [
+    "UI",
+    "M40+",
+    "D3F"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA065 H2",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo",
+   "angulo": "A28",
+   "angulo_nome": "A Verdade Crua",
+   "angulos_secundarios": [
+    "A06",
+    "A01",
+    "A15"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "longo",
+   "beat_map": "listicle-contrarian",
+   "vilao": "o cérebro flácido/atrofiado por falta de estímulo correto",
+   "tipo_prova": "case com número",
+   "hook_device": "desafio frontal",
+   "calibra_regua": true,
+   "tema": "estudar horas e esquecer tudo depois",
+   "por_que_funciona": "Confronto direto ('você não aprendeu nada, você perdeu seu tempo') + imagem física do saco furado, empilha 4 casos nomeados como prova e fecha na identidade ('pare de ser quem sempre precisa perguntar de novo').",
+   "modelar_para": [
+    "UI",
+    "M40+",
+    "J20"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA098",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo",
+   "angulo": "A05",
+   "angulo_nome": "História Pessoal/Fundo do Poço",
+   "angulos_secundarios": [
+    "A10",
+    "A25",
+    "A15"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C1",
+   "nc": "P",
+   "tamanho": "short",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "nenhum",
+   "tipo_prova": "autoteste",
+   "hook_device": "promessa com prova cronometrada",
+   "calibra_regua": true,
+   "tema": "dar branco em apresentações e reuniões",
+   "por_que_funciona": "Short que joga outro jogo: sintomas de escritório reconhecíveis (dar branco, reler cinco vezes), concessão de ceticismo ('eu não acreditava... mas funcionou') e dose temporal de 15 min em 182 palavras.",
+   "modelar_para": [
+    "UI",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA106",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo",
+   "angulo": "A17",
+   "angulo_nome": "Descoberta Casual/Fofoca",
+   "angulos_secundarios": [
+    "A01",
+    "A13",
+    "A10"
+   ],
+   "formato_bloco": "C",
+   "formato_codigo": "C2",
+   "nc": "P",
+   "tamanho": "medio",
+   "beat_map": "depoimento-1a-pessoa",
+   "vilao": "cinco substâncias químicas neurotóxicas (apodrecimento cerebral)",
+   "tipo_prova": "autoteste",
+   "hook_device": "descoberta casual",
+   "calibra_regua": true,
+   "tema": "pai com névoa mental e perda de memória",
+   "por_que_funciona": "Não parece anúncio: filha conta que achou o médico por acaso no YouTube, admite o ceticismo ('não parecia revolucionário') e prova pelo teste no próprio pai — honestidade calibrada em formato UGC.",
+   "modelar_para": [
+    "UI",
+    "M40+",
+    "D3F",
+    "J20"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  },
+  {
+   "id": "UIGA145",
+   "fonte": "interna",
+   "origem": "UI · Dr. Marcelo Roxo",
+   "angulo": "A02",
+   "angulo_nome": "Inimigo Comum",
+   "angulos_secundarios": [
+    "A01",
+    "A08",
+    "A04"
+   ],
+   "formato_bloco": "A",
+   "formato_codigo": "A1",
+   "nc": "S",
+   "tamanho": "medio",
+   "beat_map": "feed-medio-mecanismo",
+   "vilao": "placa beta-amiloide",
+   "tipo_prova": "placar de autoridade",
+   "hook_device": "rajada de negação",
+   "calibra_regua": true,
+   "tema": "medo de Alzheimer com caso na família",
+   "por_que_funciona": "É a única peça do funil com vilão batizado de verdade: demole ômega 3, salmão/nozes e palavra cruzada em staccato, nomeia a placa beta-amiloide e explica o mecanismo (sufoca conexões, endurece antes do sintoma).",
+   "modelar_para": [
+    "UI",
+    "D3F",
+    "J20",
+    "M40+"
+   ],
+   "arquivo": "internos/ultra-inteligencia.md"
+  }
+ ]
+}

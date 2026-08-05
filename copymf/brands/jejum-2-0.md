@@ -59,73 +59,76 @@ criado_em: 2026-07-16
 6. **Paulo, 50** — engenheiro cético, desconfia de "método milagroso", só se rende a ciência. Tom: prova (Nobel 2016 + universidades); formato reportagem.
 
 ## Segmentos (as DORES a bater — segmento-mãe → subsegmentos)
+
+> **Códigos S01–S12 são a nomenclatura oficial da fábrica.** Prefixo do funil: `J20`.
+> Referência agregada em `../fabrica/COORDENADAS.md` · versão para sistema em `../fabrica/coordenadas.json`.
 > Cada segmento-mãe é uma dor distinta; os subsegmentos são recortes concretos pra hook. Combine com qualquer persona compatível. Tudo conecta ao mecanismo (pâncreas hiperativo / insulina x glucagon / autofagia).
 
-**1. Peso e gordura**
+**S01 · Peso e gordura**
 - balança travada há meses mesmo "comendo certinho"
 - barriga / gordura abdominal que não sai
 - come pouco e frequente e engorda mesmo assim
 - efeito sanfona / recuperar tudo depois da dieta
 - gordura localizada (quadril, braço, papada)
 
-**2. Inchaço e digestão**
+**S02 · Inchaço e digestão**
 - barriga estufada não importa o que corte
 - retenção de líquido / inchaço à tarde
 - má digestão, gases, sensação de peso
 
-**3. Energia e sono**
+**S03 · Energia e sono**
 - cansaço que 8h de sono não resolve
 - "moleza" da tarde que café nenhum tira
 - acordar cansado, sem disposição pro dia
 - sono ruim / dormir mal
 
-**4. Glicemia e diabetes**
+**S04 · Glicemia e diabetes**
 - glicose subindo no exame / pré-diabetes
 - diabetes tipo 2 / hemoglobina glicada alta
 - resistência à insulina
 - uso de metformina querendo reduzir (com médico)
 
-**5. Fígado**
+**S05 · Fígado**
 - "sombra no ultrassom" / esteatose hepática
 - enzimas do fígado (ALT/AST) alteradas
 - medo de cirrose e de fila de transplante
 
-**6. Cardiovascular**
+**S06 · Cardiovascular**
 - colesterol e triglicerídeos altos
 - pressão alta / uso de losartana
 - medo de infarto / AVC
 
-**7. Dependência de remédio e caneta**
+**S07 · Dependência de remédio e caneta**
 - "mesa de remédios" (~R$4.200/mês) que só maquia sintoma
 - gastou fortuna na caneta (R$1.500–3.600/mês) e reganhou ao parar
 - perdeu massa muscular / "rosto de caveira" com a caneta
 - medo dos efeitos da caneta (náusea, vômito, pancreatite, gastroparesia)
 - querer sair da dependência de remédio pra sempre
 
-**8. Fertilidade**
+**S08 · Fertilidade**
 - dificuldade de engravidar ligada a peso e resistência à insulina
 - SOP (ovário policístico) travando a gravidez
 - médico condicionou a gestação a emagrecer
 - ciclos irregulares associados ao metabólico
 - homem: qualidade seminal ligada a peso/gordura
 
-**9. Libido e vida sexual**
+**S09 · Libido e vida sexual**
 - libido baixa / falta de desejo
 - disposição sexual que caiu com o peso e a idade
 - autoestima corporal afetando a intimidade
 - homem: desempenho ligado à saúde metabólica
 
-**10. Menopausa / hormonal feminino**
+**S10 · Menopausa / hormonal feminino**
 - ganho de peso na menopausa
 - fogacho, insônia, oscilação de humor
 - "meu metabolismo quebrou depois dos 40"
 
-**11. Fracassos anteriores e método**
+**S11 · Fracassos anteriores e método**
 - já tentou jejum sozinha e travou em 2–3 semanas
 - low carb/keto que funcionou e depois emperrou
 - academia 4–5x/semana sem mexer a balança
 
-**12. Barreiras de rotina**
+**S12 · Barreiras de rotina**
 - não consegue dieta por causa da vida social (jantar de negócio, almoço de família)
 - não tem tempo pra dieta complicada
 - "não tenho disciplina, sempre desisto"

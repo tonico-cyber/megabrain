@@ -59,72 +59,75 @@ criado_em: 2026-06-26
 6. **Amanda, 34** — tentante com SOP e inflamação, quer emagrecer pra engravidar. Tom: raiz inflamatória/hormonal e o sonho da maternidade.
 
 ## Segmentos (as DORES a bater — segmento-mãe → subsegmentos)
+
+> **Códigos S01–S13 são a nomenclatura oficial da fábrica.** Prefixo do funil: `D3F`.
+> Referência agregada em `../fabrica/COORDENADAS.md` · versão para sistema em `../fabrica/coordenadas.json`.
 > Cada segmento-mãe é uma dor distinta; os subsegmentos são recortes concretos pra hook. Combine com qualquer persona compatível. Tudo conecta ao mecanismo (zonulina → intestino permeável → inflamação → trava / Protocolo S.E.R. / GLP-1 natural).
 
-**1. Peso e gordura**
+**S01 · Peso e gordura**
 - balança travada mesmo comendo certo e se exercitando
 - emagrece pouco e volta tudo (às vezes mais)
 - corpo "travado", metabolismo que não responde
 - gordura localizada que não sai
 - efeito sanfona de anos de dieta
 
-**2. Intestino, inchaço e digestão** (núcleo do mecanismo)
+**S02 · Intestino, inchaço e digestão** (núcleo do mecanismo)
 - barriga incha mesmo comendo pouco
 - intestino preso ou solto / desregulado
 - gases, distensão, sensação de fermentação
 - retenção de líquido
 
-**3. Energia e sono**
+**S03 · Energia e sono**
 - acordar cansada, sem energia
 - cansaço que não passa
 - insônia / sono ruim
 
-**4. Menopausa / hormonal**
+**S04 · Menopausa / hormonal**
 - ganho de peso na peri/menopausa
 - fogacho / calorão
 - oscilação de humor / irritabilidade
 
-**5. Metabólico (glicemia, pressão, colesterol)**
+**S05 · Metabólico (glicemia, pressão, colesterol)**
 - glicose alta / pré-diabetes / diabetes
 - colesterol no limite
 - pressão alta
 - gordura no fígado
 
-**6. Inflamação e dor crônica**
+**S06 · Inflamação e dor crônica**
 - dores pelo corpo / fibromialgia
 - inflamação subclínica / inchaço geral
 - rigidez e indisposição
 
-**7. Autoimune e tireoide**
+**S07 · Autoimune e tireoide**
 - hipotireoidismo / Hashimoto que não melhora
 - tomou remédio de tireoide/insulina e não emagreceu
 - suspeita de causa autoimune ligada ao intestino
 
-**8. Pele, cabelo e unhas**
+**S08 · Pele, cabelo e unhas**
 - queda de cabelo
 - pele sem viço / envelhecimento
 - unhas fracas — sinais de má absorção
 
-**9. Fertilidade**
+**S09 · Fertilidade**
 - dificuldade de engravidar ligada a inflamação e peso
 - SOP (ovário policístico) travando a gravidez
 - ciclos irregulares associados ao intestino/inflamação
 
-**10. Libido e vida sexual**
+**S10 · Libido e vida sexual**
 - libido baixa / falta de desejo
 - disposição e autoestima afetando a intimidade
 
-**11. Caneta e remédios**
+**S11 · Caneta e remédios**
 - usa ou pensou em Ozempic/Mounjaro; medo de efeitos e custo
 - medo de depender da caneta pra sempre
 - quer o "GLP-1 natural" no lugar do sintético
 
-**12. Saúde da jovem**
+**S12 · Saúde da jovem**
 - TPM forte
 - acne / pele
 - inchaço e intestino desregulado desde cedo
 
-**13. Fracassos anteriores e descrença**
+**S13 · Fracassos anteriores e descrença**
 - já tentou low carb, jejum, sopa, shake, chá, contagem de caloria — nada durou
 - academia sem resultado na balança
 - "já tentei de tudo, nada funciona comigo"

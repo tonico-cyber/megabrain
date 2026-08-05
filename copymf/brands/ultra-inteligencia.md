@@ -59,9 +59,12 @@ criado_em: 2026-07-16
 6. **Gabriel, 19** — calouro viciado no celular, não aguenta 10 min de aula, notas caindo. Tom: "cérebro de 80 anos num corpo de 20".
 
 ## Segmentos (as DORES a bater — segmento-mãe → subsegmentos)
+
+> **Códigos S01–S09 são a nomenclatura oficial da fábrica.** Prefixo do funil: `UI`.
+> Referência agregada em `../fabrica/COORDENADAS.md` · versão para sistema em `../fabrica/coordenadas.json`.
 > Cada segmento-mãe é uma dor distinta; os subsegmentos são recortes concretos pra hook. Combine qualquer subsegmento com qualquer persona compatível. Tudo conecta ao mecanismo (Atrofia Sináptica/Poda Neural → PIH/mielina/integração hemisférica).
 
-**1. Memória do cotidiano**
+**S01 · Memória do cotidiano**
 - esquecer onde deixou chaves, óculos, celular, onde estacionou
 - esquecer o nome de quem acabou de conhecer
 - esquecer datas, compromissos, aniversários, contas a pagar
@@ -69,42 +72,42 @@ criado_em: 2026-07-16
 - perder a palavra "na ponta da língua" no meio da frase
 - perder o fio da conversa no meio dela
 
-**2. Foco e atenção**
+**S02 · Foco e atenção**
 - não sustentar atenção por mais de 10 minutos
 - reler a mesma linha/página várias vezes pra entender
 - interromper tudo a cada notificação do celular
 - começar muitas tarefas e não terminar nenhuma
 - mente acelerada/dispersa que não "assenta"
 
-**3. Aprendizado acelerado (estudo e provas)**
+**S03 · Aprendizado acelerado (estudo e provas)**
 - estudar horas e o conteúdo "evaporar" no dia seguinte
 - reprovar / não passar em concurso, residência, vestibular, OAB
 - decorar por repetição e nada fixar
 - leitura lenta que não rende o edital
 - travar pra aprender idioma novo ou curso técnico
 
-**4. Névoa mental e desempenho adulto**
+**S04 · Névoa mental e desempenho adulto**
 - sensação de mente lenta, "nebulosa", travada
 - sentir-se "burro"/incapaz apesar de esforçado
 - "branco" humilhante em reunião, apresentação, entrevista
 - exaustão mental no fim do expediente
 - queda de raciocínio e produtividade no trabalho
 
-**5. Prevenção e medo do declínio**
+**S05 · Prevenção e medo do declínio**
 - medo de Alzheimer / demência
 - histórico de Alzheimer na família (medo genético)
 - ver pai/mãe perdendo a memória e temer o mesmo caminho
 - medo de virar fardo / perder a autonomia
 - primeiros "sinais" de esquecimento assustando
 
-**6. Ensino e didática (professores/educadores)**
+**S06 · Ensino e didática (professores/educadores)**
 - prender a atenção de uma sala dispersa
 - fazer o conteúdo "grudar" na memória do aluno
 - ensinar o aluno a estudar e memorizar melhor
 - reter a própria matéria pra ensinar com segurança
 - dar conta de mais conteúdo em menos tempo de aula
 
-**7. Filhos: aprendizado e educação (pais)**
+**S07 · Filhos: aprendizado e educação (pais)**
 - ajudar o filho a render mais nos estudos
 - ensinar o filho a ter foco e memória
 - preparar o filho pro vestibular / provas da escola
@@ -112,13 +115,13 @@ criado_em: 2026-07-16
 - filho rotulado de TDAH / que não foca na escola
 - receio de medicar o filho (Ritalina) e buscar alternativa
 
-**8. Jovem e dopamina digital**
+**S08 · Jovem e dopamina digital**
 - vício em tela e scroll infinito
 - não aguentar um vídeo/aula de 10 minutos
 - procrastinação crônica
 - precisar de legenda pra acompanhar um filme
 
-**9. Performance e longevidade cognitiva (preventivo/biohacker)**
+**S09 · Performance e longevidade cognitiva (preventivo/biohacker)**
 - querer blindar a mente e criar reserva cognitiva
 - buscar "upgrade" de clareza e performance mental
 - autodidata querendo aprender mais rápido

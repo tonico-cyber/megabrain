@@ -120,6 +120,23 @@ Antes do catálogo, a regra que resolve 90% das escolhas:
 | G2 | Hook com rosto → corpo em VO | Rosto abre, VO conduz | Misto | 🟡 | Alta | Inconsciente |
 | G3 | VO + depoimentos costurados | VO + clientes | Misto | 🟡 | Média | Solução |
 
+
+### H. Formatos validados em produção (2026)
+
+> Criados durante a produção do Programa Mulher 40+ (jul/2026). Não estavam no catálogo original.
+> Códigos canônicos em `../fabrica/COORDENADAS.md`.
+
+| # | Formato | Quem fala | Aparece em tela | Custo | Escala | NC |
+|---|---|---|---|---|---|---|
+| H1 | Tela dividida (prova visual) | Especialista | Especialista + antes/depois | 🟢 | Alta | Problema |
+| H2 | Videochamada entre amigas | Duas pessoas | UI de WhatsApp/FaceTime + PIP | 🟢 | Alta | Todos |
+| H3 | Animação Pixar (jornada do herói) | Personagens | Animação em 7 cenas | 🟡 | Média | Problema |
+| H4 | Marionete narrada | Narrador (3ª pessoa) | Bonecos com fios visíveis | 🟡 | Média | Problema |
+| H5 | Entrevista de rua / vox pop | Repórter + avatar | Ambos, na calçada | 🟡 | Média | Todos |
+| H6 | Receita / cozinha | Especialista | Especialista + preparo | 🟢 | Alta | Solução |
+| H7 | Caixinha de perguntas | Especialista | Especialista + pergunta na tela | 🟢 | Muito alta | Solução |
+| H8 | Walk and talk | Especialista | Especialista caminhando | 🟢 | Alta | Todos |
+
 ## DETALHAMENTO POR PORTA-VOZ
 
 ### A. Especialista do programa
@@ -175,6 +192,20 @@ Onde mora o volume. Nenhum outro bloco te dá 20 variações num dia sem agendar
 
 - **G1 (microlead → VSL)** é o maior ponto de alavancagem do funil inteiro. Não exige refazer a VSL, não exige reagendar especialista, e oxigena um ativo já validado. Se você só puder rodar um bloco deste catálogo, rode esse.
 - **G2** resolve o dilema rosto vs. VO em vez de escolher: rosto nos 3 primeiros segundos pra ganhar o scroll, VO no corpo pra escalar variações do corpo sem regravar o rosto.
+
+
+### H. Formatos validados em produção
+
+Todos nasceram de uma necessidade real de lote, não de teoria — e os dois primeiros são os de maior potencial.
+
+- **H2 (videochamada)** e **H4 (marionete narrada)** são os únicos do catálogo desenhados para **funcionar mudos**: a legenda queimada carrega a peça inteira, e a maioria do feed roda sem som. Vantagem estrutural, não estilística.
+- **H2** vive da textura, não do roteiro: UI completa, PIP mal enquadrado, contador começando em número quebrado (0:38), legenda automática **com um errinho**, imagem travando meio segundo. Sem isso vira UGC comum com moldura. A regra de ouro é abrir **no meio da conversa** — nunca com "oi".
+- **H3 (animação Pixar)** exige que a virada **espelhe 1:1** as cenas de dor: mesmo cômodo, mesmo enquadramento, mesma pessoa secundária. Se o cenário muda, o efeito morre.
+- **H4 (marionete)** usa o próprio meio como metáfora: os fios prendem a personagem no problema e são cortados/afrouxados na virada.
+- **H1 (tela dividida)** e **H5 (vox pop)** dependem de material real (foto de aluna autorizada, gravação em rua) — checar autorização de imagem antes de roteirizar.
+- **H6, H7 e H8** são os mais baratos do bloco e os que melhor aproveitam uma sessão de gravação já agendada: saem no mesmo setup, sem produção extra.
+
+**Restrição transversal:** em H2, H3 e H4 o personagem não é o especialista real. Se a peça faz o personagem reivindicar resultado próprio, ela vira depoimento — exige lettering de "representação/dramatização" (CDC/CONAR/Meta).
 
 ## COMPLIANCE POR PORTA-VOZ
 

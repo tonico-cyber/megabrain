@@ -18,7 +18,8 @@ modelando o que já vende.
 |---|---|
 | **`SISTEMA.md`** | a metodologia completa — leis, coordenadas, dispersão, semana, gates, multi-marca |
 | **`MESA-SEGUNDA.md`** | cartão de 1 página do ritual semanal. Imprime e cola na parede. |
-| **`COORDENADAS.md`** | a tabela canônica de códigos: funis, segmentos, ângulos (A01–A29), formatos, porta-voz |
+| **`COORDENADAS.md`** | a tabela canônica de códigos: 4 funis, 44 segmentos, 29 ângulos, 51 formatos, 4 porta-vozes |
+| **`coordenadas.json`** | 🤖 **a mesma tabela, estruturada para o sistema interno consumir** |
 | **`PADRAO-DE-ESCRITA.md`** | como a copy tem que soar. Complementa a régua de 12 critérios. |
 | **`ledger/`** | uma planilha por funil. É o cérebro do sistema. |
 | **`corpos/`** | os vencedores resgatados, com coordenadas e placar |
@@ -45,7 +46,9 @@ modelando o que já vende.
 
 ## Estado atual (05/ago/2026)
 
-✅ Metodologia documentada · coordenadas numeradas · padrão de escrita escrito
+✅ Metodologia documentada · **44 segmentos numerados nos 4 funis** · 29 ângulos com código na
+biblioteca · bloco H de formatos no catálogo · `coordenadas.json` para o sistema · padrão de
+escrita escrito
 ⬜ Vencedores da casa ainda **não** resgatados para o `corpos/` nem para o swipe interno
 ⬜ Ledger sem nenhuma linha de performance preenchida
 ⬜ Fichas de porta-voz não escritas (inclui o CREF × CRN da Suéllen)

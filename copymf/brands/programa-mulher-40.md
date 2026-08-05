@@ -59,55 +59,58 @@ criado_em: 2026-07-16
 6. **Juliana, 46** — vegetariana, acha que "esses métodos não são pra ela". Tom: inclusão (cardápio veg/vegano pronto, bônus 4).
 
 ## Segmentos (as DORES a bater — segmento-mãe → subsegmentos)
+
+> **Códigos S01–S10 são a nomenclatura oficial da fábrica.** Prefixo do funil: `M40+`.
+> Referência agregada em `../fabrica/COORDENADAS.md` · versão para sistema em `../fabrica/coordenadas.json`.
 > Cada segmento-mãe é uma dor distinta; os subsegmentos são recortes concretos pra hook. Combine com qualquer persona compatível. Tudo conecta ao mecanismo (TNF-alfa trava o GLUT-4 / Método B.A.M.).
 
-**1. Peso e composição corporal**
+**S01 · Peso e composição corporal**
 - balança travada há meses
 - come igual sempre e engorda cada ano mais
 - gordura localizada: culote, coxa, braço "flácido", papada
 - corpo murcho/flácido depois de emagrecer (perdeu firmeza, não gordura)
 - efeito sanfona
 
-**2. Menopausa / hormonal**
+**S02 · Menopausa / hormonal**
 - ganho de peso na peri/menopausa
 - fogacho / calorão
 - insônia / sono ruim
 - irritabilidade e oscilação de humor
 
-**3. Metabólico e exames**
+**S03 · Metabólico e exames**
 - glicose subindo / pré-diabetes / resistência à insulina
 - colesterol e triglicerídeos altos
 - gordura no fígado (esteatose)
 - pressão alta / remédio contínuo
 - exames "normais" mas sente que tem algo errado
 
-**4. Energia e disposição**
+**S04 · Energia e disposição**
 - cansaço que noite de sono nenhuma resolve
 - sem energia pra rotina, trabalho, netos
 
-**5. Fome, compulsão e relação com a comida**
+**S05 · Fome, compulsão e relação com a comida**
 - compulsão à noite
 - vontade de doce "mais forte que eu"
 - fome descontrolada depois de anos de dieta (leptina)
 
-**6. Caneta e frustração fitness**
+**S06 · Caneta e frustração fitness**
 - perdeu músculo com a caneta e reganhou ao parar
 - gastou ~R$1.800/mês na caneta e "voltou tudo"
 - treinou e dietou muito e não saiu do lugar
 
-**7. Libido e vida sexual**
+**S07 · Libido e vida sexual**
 - libido baixa / "sumiu o desejo"
 - autoestima corporal afetando a intimidade
 
-**8. Autoestima e imagem**
+**S08 · Autoestima e imagem**
 - roupa que fechava ano passado não fecha (vergonha no provador)
 - foge de foto / não se reconhece no espelho
 
-**9. Dores e articulações**
+**S09 · Dores e articulações**
 - dor nas articulações / inflamação
 - rigidez e indisposição pra se mover
 
-**10. Barreiras (objeção virada gancho)**
+**S10 · Barreiras (objeção virada gancho)**
 - não tem tempo pra academia/dieta elaborada
 - não tem disciplina / odeia treinar / já desistiu mil vezes
 - vida social atrapalha (festa, almoço de família)

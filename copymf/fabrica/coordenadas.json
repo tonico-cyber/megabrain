@@ -1,0 +1,964 @@
+{
+  "versao": "1.0",
+  "atualizado_em": "2026-08-05",
+  "fonte": "copymf/fabrica/COORDENADAS.md",
+  "niveis_consciencia": [
+    {
+      "codigo": "P",
+      "nome": "Problema",
+      "descricao": "sente o sintoma, não conhece a causa",
+      "serve_para": "volume, topo de funil"
+    },
+    {
+      "codigo": "S",
+      "nome": "Solucao-existente",
+      "descricao": "já está tentando algo do mercado (chá, caneta, low carb, caminhada)",
+      "serve_para": "venda, intenção maior"
+    }
+  ],
+  "porta_voz": [
+    {
+      "codigo": "EXP",
+      "nome": "Especialista",
+      "descricao": "o próprio expert do funil",
+      "gargalo": "agenda (~1 sessão/semana)",
+      "escala": "limitada"
+    },
+    {
+      "codigo": "END",
+      "nome": "Endosso ao especialista",
+      "descricao": "alguém endossando o expert e o método dele (médico, ator, aluna)",
+      "gargalo": "casting e cachê",
+      "escala": "media"
+    },
+    {
+      "codigo": "VO",
+      "nome": "Voice over",
+      "descricao": "ninguém aparece; narração sobre b-roll ou estáticos",
+      "gargalo": "nenhum",
+      "escala": "alta"
+    },
+    {
+      "codigo": "ANI",
+      "nome": "Animação",
+      "descricao": "Pixar, marionete, motion, avatar de IA",
+      "gargalo": "tempo de produção",
+      "escala": "alta"
+    }
+  ],
+  "mix_default_lote_20": {
+    "EXP": 8,
+    "END": 3,
+    "VO": 6,
+    "ANI": 3
+  },
+  "angulos": [
+    {
+      "codigo": "A01",
+      "nome": "Novo Mecanismo (a verdadeira causa)"
+    },
+    {
+      "codigo": "A02",
+      "nome": "Inimigo Comum / Vilão Externo"
+    },
+    {
+      "codigo": "A03",
+      "nome": "Contrarian (\"pare de fazer X\")"
+    },
+    {
+      "codigo": "A04",
+      "nome": "Erro / \"Você está fazendo errado\""
+    },
+    {
+      "codigo": "A05",
+      "nome": "História Pessoal / Transformação (Epiphany Bridge)"
+    },
+    {
+      "codigo": "A06",
+      "nome": "Identificação / Call-out do Avatar"
+    },
+    {
+      "codigo": "A07",
+      "nome": "Curiosidade Específica (o \"truque estranho\")"
+    },
+    {
+      "codigo": "A08",
+      "nome": "Medo / Sinal de Alerta"
+    },
+    {
+      "codigo": "A09",
+      "nome": "Prova Social / Fenômeno em Massa"
+    },
+    {
+      "codigo": "A10",
+      "nome": "Demonstração / Antes-e-Depois Visual"
+    },
+    {
+      "codigo": "A11",
+      "nome": "Us vs. Them (conspiração suave)"
+    },
+    {
+      "codigo": "A12",
+      "nome": "Autoridade Revela"
+    },
+    {
+      "codigo": "A13",
+      "nome": "Objeção Invertida (\"mesmo que...\")"
+    },
+    {
+      "codigo": "A14",
+      "nome": "Custo da Inação / Matemática da Dor"
+    },
+    {
+      "codigo": "A15",
+      "nome": "Estado Final / Dream Outcome (dia na vida)"
+    },
+    {
+      "codigo": "A16",
+      "nome": "Desafio / Experimento (\"testei por 30 dias\")"
+    },
+    {
+      "codigo": "A17",
+      "nome": "Descoberta Casual / Recomendação de Amiga"
+    },
+    {
+      "codigo": "A18",
+      "nome": "Pergunta / Autodiagnóstico"
+    },
+    {
+      "codigo": "A19",
+      "nome": "Novidade / News-jacking"
+    },
+    {
+      "codigo": "A20",
+      "nome": "Comparação / \"X vs. Y\""
+    },
+    {
+      "codigo": "A21",
+      "nome": "Promessa (afirmação ousada do resultado)"
+    },
+    {
+      "codigo": "A22",
+      "nome": "Paradoxo (a ideia contraintuitiva)"
+    },
+    {
+      "codigo": "A23",
+      "nome": "Mistério Científico (a descoberta que ninguém comenta)"
+    },
+    {
+      "codigo": "A24",
+      "nome": "Carta Secreta (o documento que não era pra você ver)"
+    },
+    {
+      "codigo": "A25",
+      "nome": "Transformação Relâmpago (a mudança absurda em pouco tempo)"
+    },
+    {
+      "codigo": "A26",
+      "nome": "Herói Inesperado (a solução veio do lugar improvável)"
+    },
+    {
+      "codigo": "A27",
+      "nome": "Tradição Esquecida (a técnica antiga que abandonaram)"
+    },
+    {
+      "codigo": "A28",
+      "nome": "A Verdade Crua (o que poucos têm coragem de dizer)"
+    },
+    {
+      "codigo": "A29",
+      "nome": "Estudo de Caso Estranho (resolveu de um jeito inesperado)"
+    }
+  ],
+  "formatos": [
+    {
+      "codigo": "A1",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Talking head — revelação de mecanismo"
+    },
+    {
+      "codigo": "A2",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Green screen reação"
+    },
+    {
+      "codigo": "A3",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Whiteboard / desenho"
+    },
+    {
+      "codigo": "A4",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Corte de podcast / live"
+    },
+    {
+      "codigo": "A5",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Micro-aula (60–90s)"
+    },
+    {
+      "codigo": "A6",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Resposta a comentário"
+    },
+    {
+      "codigo": "A7",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Sabatina"
+    },
+    {
+      "codigo": "A8",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Bastidor de consultório (lofi)"
+    },
+    {
+      "codigo": "A9",
+      "bloco": "A",
+      "bloco_nome": "Especialista do programa",
+      "nome": "Story ad pessoal"
+    },
+    {
+      "codigo": "B1",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "O cético convertido"
+    },
+    {
+      "codigo": "B2",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "Reação profissional (green screen)"
+    },
+    {
+      "codigo": "B3",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "O profissional como paciente"
+    },
+    {
+      "codigo": "B4",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "Sabatina invertida"
+    },
+    {
+      "codigo": "B5",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "Painel / authority stack"
+    },
+    {
+      "codigo": "B6",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "Confissão de categoria"
+    },
+    {
+      "codigo": "B7",
+      "bloco": "B",
+      "bloco_nome": "Autoridade endossante",
+      "nome": "Bastidor de hospital (lofi)"
+    },
+    {
+      "codigo": "C1",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Depoimento de transformação"
+    },
+    {
+      "codigo": "C2",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "UGC descoberta"
+    },
+    {
+      "codigo": "C3",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Tour da área de membros"
+    },
+    {
+      "codigo": "C4",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Vlog / diário de X dias"
+    },
+    {
+      "codigo": "C5",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Duet / reação a conteúdo"
+    },
+    {
+      "codigo": "C6",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Entrevista de rua / vox pop"
+    },
+    {
+      "codigo": "C7",
+      "bloco": "C",
+      "bloco_nome": "Cliente / UGC",
+      "nome": "Selfie confissão"
+    },
+    {
+      "codigo": "D1",
+      "bloco": "D",
+      "bloco_nome": "Fundador do método",
+      "nome": "Carta do fundador em vídeo"
+    },
+    {
+      "codigo": "D2",
+      "bloco": "D",
+      "bloco_nome": "Fundador do método",
+      "nome": "Por que criamos isso"
+    },
+    {
+      "codigo": "D3",
+      "bloco": "D",
+      "bloco_nome": "Fundador do método",
+      "nome": "Aviso / apology letter"
+    },
+    {
+      "codigo": "D4",
+      "bloco": "D",
+      "bloco_nome": "Fundador do método",
+      "nome": "Founder story"
+    },
+    {
+      "codigo": "E1",
+      "bloco": "E",
+      "bloco_nome": "Ator / porta-voz contratado",
+      "nome": "Talking head roteirizado"
+    },
+    {
+      "codigo": "E2",
+      "bloco": "E",
+      "bloco_nome": "Ator / porta-voz contratado",
+      "nome": "Encenação / sketch"
+    },
+    {
+      "codigo": "E3",
+      "bloco": "E",
+      "bloco_nome": "Ator / porta-voz contratado",
+      "nome": "Formato jornalístico"
+    },
+    {
+      "codigo": "E4",
+      "bloco": "E",
+      "bloco_nome": "Ator / porta-voz contratado",
+      "nome": "Testemunho dramatizado"
+    },
+    {
+      "codigo": "F1",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Documentário (b-roll + narração)"
+    },
+    {
+      "codigo": "F2",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Stick figure / doodle"
+    },
+    {
+      "codigo": "F3",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Motion graphics / kinetic text"
+    },
+    {
+      "codigo": "F4",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Screen recording"
+    },
+    {
+      "codigo": "F5",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Slideshow de estáticos + VO"
+    },
+    {
+      "codigo": "F6",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Whiteboard animation"
+    },
+    {
+      "codigo": "F7",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Compilação de notícias"
+    },
+    {
+      "codigo": "F8",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Silent ad"
+    },
+    {
+      "codigo": "F9",
+      "bloco": "F",
+      "bloco_nome": "Voiceover — sem rosto",
+      "nome": "Avatar de IA"
+    },
+    {
+      "codigo": "G1",
+      "bloco": "G",
+      "bloco_nome": "Híbridos",
+      "nome": "Microlead → VSL"
+    },
+    {
+      "codigo": "G2",
+      "bloco": "G",
+      "bloco_nome": "Híbridos",
+      "nome": "Hook com rosto → corpo em VO"
+    },
+    {
+      "codigo": "G3",
+      "bloco": "G",
+      "bloco_nome": "Híbridos",
+      "nome": "VO + depoimentos costurados"
+    },
+    {
+      "codigo": "H1",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Tela dividida (prova visual)"
+    },
+    {
+      "codigo": "H2",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Videochamada entre amigas"
+    },
+    {
+      "codigo": "H3",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Animação Pixar (jornada do herói)"
+    },
+    {
+      "codigo": "H4",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Marionete narrada"
+    },
+    {
+      "codigo": "H5",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Entrevista de rua / vox pop"
+    },
+    {
+      "codigo": "H6",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Receita / cozinha"
+    },
+    {
+      "codigo": "H7",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Caixinha de perguntas"
+    },
+    {
+      "codigo": "H8",
+      "bloco": "H",
+      "bloco_nome": "Validados em produção 2026",
+      "nome": "Walk and talk"
+    }
+  ],
+  "funis": [
+    {
+      "prefixo": "D3F",
+      "slug": "dieta-das-3-fases",
+      "mecanismo": "A zonulina elevada abre o intestino (permeável) e gera inflamação subclínica que dispara cortisol e insulina e trava o emagrecimento — o Protocolo S.E.R. (Silenciar, Expurgar, Recolonizar) com o Suco Enzimático Natural recoloniza a microbiota (Akkermansia) e reativa a produção NATURAL de GLP-1, o que as canetas imitam de forma sintética.",
+      "segmentos": [
+        {
+          "codigo": "S01",
+          "nome": "Peso e gordura",
+          "subsegmentos": [
+            "balança travada mesmo comendo certo e se exercitando",
+            "emagrece pouco e volta tudo (às vezes mais)",
+            "corpo \"travado\", metabolismo que não responde",
+            "gordura localizada que não sai",
+            "efeito sanfona de anos de dieta"
+          ]
+        },
+        {
+          "codigo": "S02",
+          "nome": "Intestino, inchaço e digestão (núcleo do mecanismo)",
+          "subsegmentos": [
+            "barriga incha mesmo comendo pouco",
+            "intestino preso ou solto / desregulado",
+            "gases, distensão, sensação de fermentação",
+            "retenção de líquido"
+          ]
+        },
+        {
+          "codigo": "S03",
+          "nome": "Energia e sono",
+          "subsegmentos": [
+            "acordar cansada, sem energia",
+            "cansaço que não passa",
+            "insônia / sono ruim"
+          ]
+        },
+        {
+          "codigo": "S04",
+          "nome": "Menopausa / hormonal",
+          "subsegmentos": [
+            "ganho de peso na peri/menopausa",
+            "fogacho / calorão",
+            "oscilação de humor / irritabilidade"
+          ]
+        },
+        {
+          "codigo": "S05",
+          "nome": "Metabólico (glicemia, pressão, colesterol)",
+          "subsegmentos": [
+            "glicose alta / pré-diabetes / diabetes",
+            "colesterol no limite",
+            "pressão alta",
+            "gordura no fígado"
+          ]
+        },
+        {
+          "codigo": "S06",
+          "nome": "Inflamação e dor crônica",
+          "subsegmentos": [
+            "dores pelo corpo / fibromialgia",
+            "inflamação subclínica / inchaço geral",
+            "rigidez e indisposição"
+          ]
+        },
+        {
+          "codigo": "S07",
+          "nome": "Autoimune e tireoide",
+          "subsegmentos": [
+            "hipotireoidismo / Hashimoto que não melhora",
+            "tomou remédio de tireoide/insulina e não emagreceu",
+            "suspeita de causa autoimune ligada ao intestino"
+          ]
+        },
+        {
+          "codigo": "S08",
+          "nome": "Pele, cabelo e unhas",
+          "subsegmentos": [
+            "queda de cabelo",
+            "pele sem viço / envelhecimento",
+            "unhas fracas — sinais de má absorção"
+          ]
+        },
+        {
+          "codigo": "S09",
+          "nome": "Fertilidade",
+          "subsegmentos": [
+            "dificuldade de engravidar ligada a inflamação e peso",
+            "SOP (ovário policístico) travando a gravidez",
+            "ciclos irregulares associados ao intestino/inflamação"
+          ]
+        },
+        {
+          "codigo": "S10",
+          "nome": "Libido e vida sexual",
+          "subsegmentos": [
+            "libido baixa / falta de desejo",
+            "disposição e autoestima afetando a intimidade"
+          ]
+        },
+        {
+          "codigo": "S11",
+          "nome": "Caneta e remédios",
+          "subsegmentos": [
+            "usa ou pensou em Ozempic/Mounjaro; medo de efeitos e custo",
+            "medo de depender da caneta pra sempre",
+            "quer o \"GLP-1 natural\" no lugar do sintético"
+          ]
+        },
+        {
+          "codigo": "S12",
+          "nome": "Saúde da jovem",
+          "subsegmentos": [
+            "TPM forte",
+            "acne / pele",
+            "inchaço e intestino desregulado desde cedo"
+          ]
+        },
+        {
+          "codigo": "S13",
+          "nome": "Fracassos anteriores e descrença",
+          "subsegmentos": [
+            "já tentou low carb, jejum, sopa, shake, chá, contagem de caloria — nada durou",
+            "academia sem resultado na balança",
+            "\"já tentei de tudo, nada funciona comigo\""
+          ]
+        }
+      ]
+    },
+    {
+      "prefixo": "J20",
+      "slug": "jejum-2-0",
+      "mecanismo": "Vilão: pâncreas hiperativo sufocado por células zumbi (senescentes) → mantém insulina sempre alta e o glucagon zerado, então a gordura nunca é queimada (fígado gordo → resistência à insulina) → Método P.I.G. (Pâncreas–Insulina–Glucagon) aplica o Jejum Regenerativo em 5 protocolos sequenciais (Despertar → Flexível → Reset → Rei → Alternado) para dar descanso ao pâncreas, limpar as células zumbi via autofagia (Nobel 2016) e acordar o glucagon, o hormônio que queima gordura.",
+      "segmentos": [
+        {
+          "codigo": "S01",
+          "nome": "Peso e gordura",
+          "subsegmentos": [
+            "balança travada há meses mesmo \"comendo certinho\"",
+            "barriga / gordura abdominal que não sai",
+            "come pouco e frequente e engorda mesmo assim",
+            "efeito sanfona / recuperar tudo depois da dieta",
+            "gordura localizada (quadril, braço, papada)"
+          ]
+        },
+        {
+          "codigo": "S02",
+          "nome": "Inchaço e digestão",
+          "subsegmentos": [
+            "barriga estufada não importa o que corte",
+            "retenção de líquido / inchaço à tarde",
+            "má digestão, gases, sensação de peso"
+          ]
+        },
+        {
+          "codigo": "S03",
+          "nome": "Energia e sono",
+          "subsegmentos": [
+            "cansaço que 8h de sono não resolve",
+            "\"moleza\" da tarde que café nenhum tira",
+            "acordar cansado, sem disposição pro dia",
+            "sono ruim / dormir mal"
+          ]
+        },
+        {
+          "codigo": "S04",
+          "nome": "Glicemia e diabetes",
+          "subsegmentos": [
+            "glicose subindo no exame / pré-diabetes",
+            "diabetes tipo 2 / hemoglobina glicada alta",
+            "resistência à insulina",
+            "uso de metformina querendo reduzir (com médico)"
+          ]
+        },
+        {
+          "codigo": "S05",
+          "nome": "Fígado",
+          "subsegmentos": [
+            "\"sombra no ultrassom\" / esteatose hepática",
+            "enzimas do fígado (ALT/AST) alteradas",
+            "medo de cirrose e de fila de transplante"
+          ]
+        },
+        {
+          "codigo": "S06",
+          "nome": "Cardiovascular",
+          "subsegmentos": [
+            "colesterol e triglicerídeos altos",
+            "pressão alta / uso de losartana",
+            "medo de infarto / AVC"
+          ]
+        },
+        {
+          "codigo": "S07",
+          "nome": "Dependência de remédio e caneta",
+          "subsegmentos": [
+            "\"mesa de remédios\" (~R$4.200/mês) que só maquia sintoma",
+            "gastou fortuna na caneta (R$1.500–3.600/mês) e reganhou ao parar",
+            "perdeu massa muscular / \"rosto de caveira\" com a caneta",
+            "medo dos efeitos da caneta (náusea, vômito, pancreatite, gastroparesia)",
+            "querer sair da dependência de remédio pra sempre"
+          ]
+        },
+        {
+          "codigo": "S08",
+          "nome": "Fertilidade",
+          "subsegmentos": [
+            "dificuldade de engravidar ligada a peso e resistência à insulina",
+            "SOP (ovário policístico) travando a gravidez",
+            "médico condicionou a gestação a emagrecer",
+            "ciclos irregulares associados ao metabólico",
+            "homem: qualidade seminal ligada a peso/gordura"
+          ]
+        },
+        {
+          "codigo": "S09",
+          "nome": "Libido e vida sexual",
+          "subsegmentos": [
+            "libido baixa / falta de desejo",
+            "disposição sexual que caiu com o peso e a idade",
+            "autoestima corporal afetando a intimidade",
+            "homem: desempenho ligado à saúde metabólica"
+          ]
+        },
+        {
+          "codigo": "S10",
+          "nome": "Menopausa / hormonal feminino",
+          "subsegmentos": [
+            "ganho de peso na menopausa",
+            "fogacho, insônia, oscilação de humor",
+            "\"meu metabolismo quebrou depois dos 40\""
+          ]
+        },
+        {
+          "codigo": "S11",
+          "nome": "Fracassos anteriores e método",
+          "subsegmentos": [
+            "já tentou jejum sozinha e travou em 2–3 semanas",
+            "low carb/keto que funcionou e depois emperrou",
+            "academia 4–5x/semana sem mexer a balança"
+          ]
+        },
+        {
+          "codigo": "S12",
+          "nome": "Barreiras de rotina",
+          "subsegmentos": [
+            "não consegue dieta por causa da vida social (jantar de negócio, almoço de família)",
+            "não tem tempo pra dieta complicada",
+            "\"não tenho disciplina, sempre desisto\""
+          ]
+        }
+      ]
+    },
+    {
+      "prefixo": "M40+",
+      "slug": "programa-mulher-40",
+      "mecanismo": "A proteína inflamatória TNF-alfa, fabricada pela própria célula de gordura após os 40, desliga os carregadores de açúcar GLUT-4 do músculo e trava o motor que queima açúcar — o Método B.A.M. (Bloquear com Alimentação Alternada → Ativar o GLUT-4 pela 2ª via, a contração muscular que a inflamação não alcança → Multiplicar semana a semana com Treino Progressivo) religa esse motor.",
+      "segmentos": [
+        {
+          "codigo": "S01",
+          "nome": "Peso e composição corporal",
+          "subsegmentos": [
+            "balança travada há meses",
+            "come igual sempre e engorda cada ano mais",
+            "gordura localizada: culote, coxa, braço \"flácido\", papada",
+            "corpo murcho/flácido depois de emagrecer (perdeu firmeza, não gordura)",
+            "efeito sanfona"
+          ]
+        },
+        {
+          "codigo": "S02",
+          "nome": "Menopausa / hormonal",
+          "subsegmentos": [
+            "ganho de peso na peri/menopausa",
+            "fogacho / calorão",
+            "insônia / sono ruim",
+            "irritabilidade e oscilação de humor"
+          ]
+        },
+        {
+          "codigo": "S03",
+          "nome": "Metabólico e exames",
+          "subsegmentos": [
+            "glicose subindo / pré-diabetes / resistência à insulina",
+            "colesterol e triglicerídeos altos",
+            "gordura no fígado (esteatose)",
+            "pressão alta / remédio contínuo",
+            "exames \"normais\" mas sente que tem algo errado"
+          ]
+        },
+        {
+          "codigo": "S04",
+          "nome": "Energia e disposição",
+          "subsegmentos": [
+            "cansaço que noite de sono nenhuma resolve",
+            "sem energia pra rotina, trabalho, netos"
+          ]
+        },
+        {
+          "codigo": "S05",
+          "nome": "Fome, compulsão e relação com a comida",
+          "subsegmentos": [
+            "compulsão à noite",
+            "vontade de doce \"mais forte que eu\"",
+            "fome descontrolada depois de anos de dieta (leptina)"
+          ]
+        },
+        {
+          "codigo": "S06",
+          "nome": "Caneta e frustração fitness",
+          "subsegmentos": [
+            "perdeu músculo com a caneta e reganhou ao parar",
+            "gastou ~R$1.800/mês na caneta e \"voltou tudo\"",
+            "treinou e dietou muito e não saiu do lugar"
+          ]
+        },
+        {
+          "codigo": "S07",
+          "nome": "Libido e vida sexual",
+          "subsegmentos": [
+            "libido baixa / \"sumiu o desejo\"",
+            "autoestima corporal afetando a intimidade"
+          ]
+        },
+        {
+          "codigo": "S08",
+          "nome": "Autoestima e imagem",
+          "subsegmentos": [
+            "roupa que fechava ano passado não fecha (vergonha no provador)",
+            "foge de foto / não se reconhece no espelho"
+          ]
+        },
+        {
+          "codigo": "S09",
+          "nome": "Dores e articulações",
+          "subsegmentos": [
+            "dor nas articulações / inflamação",
+            "rigidez e indisposição pra se mover"
+          ]
+        },
+        {
+          "codigo": "S10",
+          "nome": "Barreiras (objeção virada gancho)",
+          "subsegmentos": [
+            "não tem tempo pra academia/dieta elaborada",
+            "não tem disciplina / odeia treinar / já desistiu mil vezes",
+            "vida social atrapalha (festa, almoço de família)",
+            "vegetariana/vegana achando que \"não é pra ela\"",
+            "ouve que \"depois dos 40 é assim mesmo / é da menopausa / é genética\""
+          ]
+        }
+      ]
+    },
+    {
+      "prefixo": "UI",
+      "slug": "ultra-inteligencia",
+      "mecanismo": "A Atrofia Sináptica por Desuso (Poda Neural — o cérebro entra em \"Modo de Segurança\" e corta sinapses pra poupar energia) apaga a memória e instala a névoa mental; o PIH (Protocolo de Integração Hemisférica) reverte isso com 15 min/dia de estímulos cruzados na ordem exata que forçam os dois hemisférios a conversarem via Corpo Caloso, disparando Mielinização Acelerada e criando Reserva Cognitiva que \"solda\" a informação no córtex.",
+      "segmentos": [
+        {
+          "codigo": "S01",
+          "nome": "Memória do cotidiano",
+          "subsegmentos": [
+            "esquecer onde deixou chaves, óculos, celular, onde estacionou",
+            "esquecer o nome de quem acabou de conhecer",
+            "esquecer datas, compromissos, aniversários, contas a pagar",
+            "entrar num cômodo e não lembrar o que ia fazer",
+            "perder a palavra \"na ponta da língua\" no meio da frase",
+            "perder o fio da conversa no meio dela"
+          ]
+        },
+        {
+          "codigo": "S02",
+          "nome": "Foco e atenção",
+          "subsegmentos": [
+            "não sustentar atenção por mais de 10 minutos",
+            "reler a mesma linha/página várias vezes pra entender",
+            "interromper tudo a cada notificação do celular",
+            "começar muitas tarefas e não terminar nenhuma",
+            "mente acelerada/dispersa que não \"assenta\""
+          ]
+        },
+        {
+          "codigo": "S03",
+          "nome": "Aprendizado acelerado (estudo e provas)",
+          "subsegmentos": [
+            "estudar horas e o conteúdo \"evaporar\" no dia seguinte",
+            "reprovar / não passar em concurso, residência, vestibular, OAB",
+            "decorar por repetição e nada fixar",
+            "leitura lenta que não rende o edital",
+            "travar pra aprender idioma novo ou curso técnico"
+          ]
+        },
+        {
+          "codigo": "S04",
+          "nome": "Névoa mental e desempenho adulto",
+          "subsegmentos": [
+            "sensação de mente lenta, \"nebulosa\", travada",
+            "sentir-se \"burro\"/incapaz apesar de esforçado",
+            "\"branco\" humilhante em reunião, apresentação, entrevista",
+            "exaustão mental no fim do expediente",
+            "queda de raciocínio e produtividade no trabalho"
+          ]
+        },
+        {
+          "codigo": "S05",
+          "nome": "Prevenção e medo do declínio",
+          "subsegmentos": [
+            "medo de Alzheimer / demência",
+            "histórico de Alzheimer na família (medo genético)",
+            "ver pai/mãe perdendo a memória e temer o mesmo caminho",
+            "medo de virar fardo / perder a autonomia",
+            "primeiros \"sinais\" de esquecimento assustando"
+          ]
+        },
+        {
+          "codigo": "S06",
+          "nome": "Ensino e didática (professores/educadores)",
+          "subsegmentos": [
+            "prender a atenção de uma sala dispersa",
+            "fazer o conteúdo \"grudar\" na memória do aluno",
+            "ensinar o aluno a estudar e memorizar melhor",
+            "reter a própria matéria pra ensinar com segurança",
+            "dar conta de mais conteúdo em menos tempo de aula"
+          ]
+        },
+        {
+          "codigo": "S07",
+          "nome": "Filhos: aprendizado e educação (pais)",
+          "subsegmentos": [
+            "ajudar o filho a render mais nos estudos",
+            "ensinar o filho a ter foco e memória",
+            "preparar o filho pro vestibular / provas da escola",
+            "dar ao filho a vantagem de aprendizado que o pai não teve",
+            "filho rotulado de TDAH / que não foca na escola",
+            "receio de medicar o filho (Ritalina) e buscar alternativa"
+          ]
+        },
+        {
+          "codigo": "S08",
+          "nome": "Jovem e dopamina digital",
+          "subsegmentos": [
+            "vício em tela e scroll infinito",
+            "não aguentar um vídeo/aula de 10 minutos",
+            "procrastinação crônica",
+            "precisar de legenda pra acompanhar um filme"
+          ]
+        },
+        {
+          "codigo": "S09",
+          "nome": "Performance e longevidade cognitiva (preventivo/biohacker)",
+          "subsegmentos": [
+            "querer blindar a mente e criar reserva cognitiva",
+            "buscar \"upgrade\" de clareza e performance mental",
+            "autodidata querendo aprender mais rápido",
+            "dependência de cafeína/pílulas de foco que não resolvem"
+          ]
+        }
+      ]
+    }
+  ],
+  "dispersao": {
+    "regra": "ID >= 4 para duas peças subirem juntas",
+    "regra_pratica": "duas peças do mesmo segmento precisam diferir em pelo menos 2 de {nc, angulo, formato, porta_voz}",
+    "pontos": {
+      "mecanismo": 4,
+      "segmento": 3,
+      "nivel_consciencia": 3,
+      "angulo": 2,
+      "formato_bloco": 2,
+      "porta_voz": 2,
+      "analogia_mestra": 1,
+      "hook_corpo_prova_ordem_tom": 0
+    }
+  },
+  "lote_padrao": {
+    "total": 20,
+    "modelagem": 16,
+    "wild_card": 4,
+    "fontes": {
+      "vencedores_nossos": 8,
+      "biblioteca_externa": 8,
+      "wild": 4
+    }
+  }
+}

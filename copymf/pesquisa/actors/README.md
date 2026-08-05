@@ -53,6 +53,8 @@ run de US$ 0,02-0,05 antes de rodada grande. `google-ads-transparency.json` fixa
 ## Cuidados de custo (aprendidos na pesquisa, não pular)
 
 - `curious_coder`: pode entregar até +30 itens acima do limite (cobra por item entregue).
+  **Piso de 10:** `count` < 10 aborta o run com `"Maximum charged results" option must be
+  atleast 10` (o dataset traz 1 item só com o campo `error`). Validado em 2026-07-21.
 - `solidcode`: `maxResults=0` = ILIMITADO — sempre 50.
 - Comentários são faturados como resultado (IG, Reddit, krazee) → **2 fases sempre**.
 - `harshmaur`/`trudax`: `maxPostsCount` é POR termo de busca, não total.

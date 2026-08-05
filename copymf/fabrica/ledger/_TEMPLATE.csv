@@ -1,0 +1,4 @@
+codigo,data_subida,marca,corpo_pai,dial_girado,geracao,gemea_swipe,angulo,segmento,nc,formato,porta_voz,id_dispersao,score_regua,vicious,ciclo_regua,gasto,impressoes,hook_rate_3s,hold_50,ctr,conversoes,cpa,estado,data_morte,diagnostico_morte
+M40+22,,programa-mulher-40,C01,D0-canonico,g0,D3FSER069,A01,S02,P,F-A1,suellen,,12,10,1,,,,,,,,C1-sonda,,
+M40+33,,programa-mulher-40,C01,D1-hook-swap,g1,D3FSER069,A17,S05,P,F-A1,suellen,,12,10,1,,,,,,,,C0-candidato,,
+M40+40,,programa-mulher-40,C01,D1-hook-swap,g1,D3FSER069,A22,S08,P,F-C7,suellen,,12,10,1,,,,,,,,C0-candidato,,

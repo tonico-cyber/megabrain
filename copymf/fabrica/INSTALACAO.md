@@ -1,11 +1,49 @@
 # INSTALAÇÃO — passo a passo
 
-> Para copywriter. Você não precisa saber programar. São 5 passos, ~15 minutos, uma vez só.
-> Se travar em algum, chame o Nicolas com o print da tela.
+> Para copywriter. Você não precisa saber programar. Se travar em algum passo, chame o Nicolas
+> com o print da tela.
 
 ---
 
-# PARTE 1 — Abrir o Terminal
+## ⚡ JÁ TEM O CLAUDE CODE INSTALADO? São 3 comandos.
+
+Abra o Terminal (Mac: `⌘ + espaço`, digite `terminal`) e cole um de cada vez:
+
+```bash
+cd ~/Documents
+```
+```bash
+git clone https://github.com/tonico-cyber/megabrain.git
+```
+```bash
+cd megabrain
+```
+
+Agora abra o Claude **de dentro da pasta**:
+
+```bash
+claude
+```
+
+E rode:
+
+```
+/fabrica
+```
+
+**Confira se funcionou:** digite `/` e o `/fabrica` tem que aparecer na lista. Se não aparecer,
+você abriu o Claude na pasta errada — rode `cd ~/Documents/megabrain` e abra de novo.
+
+> **Por que a pasta importa:** é ela que carrega a régua da casa, o swipe com os 102 anúncios
+> vencedores, os Brand Contexts e os comandos. Fora dela o Claude vira um Claude comum e escreve
+> copy genérica — **sem avisar que está fazendo isso**.
+
+Pule para **PARTE 4** se quiser ver o fluxo do dia a dia. O resto abaixo é só para quem ainda
+não tem o Claude Code.
+
+---
+
+# PARTE 1 — Abrir o Terminal *(quem já tem o Claude Code pode pular para a PARTE 4)*
 
 Tudo aqui é digitado no **Terminal** (Mac) ou **PowerShell** (Windows).
 

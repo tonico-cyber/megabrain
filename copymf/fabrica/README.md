@@ -7,15 +7,21 @@ modelando o que já vende.
 
 | Se você é… | Leia nesta ordem |
 |---|---|
-| **Copywriter novo no time** | `PADRAO-DE-ESCRITA.md` → `COORDENADAS.md` → `SISTEMA.md` |
+| **Copywriter novo no time** | **`ONBOARDING.md`** (instala e roda em 10 min) → `PADRAO-DE-ESCRITA.md` → `COORDENADAS.md` |
 | **Gestor de tráfego** | `MESA-SEGUNDA.md` → Partes 2, 5 e 8 do `SISTEMA.md` |
 | **Quem vai rodar a Mesa de segunda** | `MESA-SEGUNDA.md` (imprime) |
 | **Quem está montando um funil novo** | `SISTEMA.md` Parte 6 (multi-marca) + `COORDENADAS.md` |
+
+## Como rodar
+
+Clone o repo, abra o Claude Code **dentro da pasta** e digite `/fabrica`. Passo a passo em
+**`ONBOARDING.md`**.
 
 ## Os arquivos
 
 | Arquivo | O que é |
 |---|---|
+| **`ONBOARDING.md`** | 👤 guia de instalação e uso para o copywriter — comece por aqui |
 | **`SISTEMA.md`** | a metodologia completa — leis, coordenadas, dispersão, semana, gates, multi-marca |
 | **`MESA-SEGUNDA.md`** | cartão de 1 página do ritual semanal. Imprime e cola na parede. |
 | **`COORDENADAS.md`** | a tabela canônica de códigos: 4 funis, 44 segmentos, 29 ângulos, 51 formatos, 4 porta-vozes |
@@ -50,11 +56,10 @@ modelando o que já vende.
 
 ✅ Metodologia documentada · **44 segmentos numerados nos 4 funis** · 29 ângulos com código na
 biblioteca · bloco H de formatos no catálogo · `coordenadas.json` para o sistema · padrão de
-escrita escrito · **swipe indexado (102 peças)** · gerador especificado
+escrita escrito · **swipe indexado (102 peças)** · gerador especificado · **comando `/fabrica` pronto**
 ⬜ Vencedores da casa ainda **não** resgatados para o `corpos/` nem para o swipe interno
 ⬜ Ledger sem nenhuma linha de performance preenchida
 ⬜ Fichas de porta-voz não escritas (inclui o CREF × CRN da Suéllen)
-⬜ `/copymf` ainda não integrado à fábrica
 ⬜ Gerador especificado (`GERADOR.md`) mas ainda não implementado no sistema
 
 > **A fábrica só liga quando o ledger tiver a primeira coluna de performance com dado real.**

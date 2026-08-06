@@ -7,21 +7,22 @@ modelando o que já vende.
 
 | Se você é… | Leia nesta ordem |
 |---|---|
-| **Copywriter novo no time** | **`ONBOARDING.md`** (instala e roda em 10 min) → `PADRAO-DE-ESCRITA.md` → `COORDENADAS.md` |
+| **Copywriter novo no time** | **`INSTALACAO.md`** → `ONBOARDING.md` → `PADRAO-DE-ESCRITA.md` → `COORDENADAS.md` |
 | **Gestor de tráfego** | `MESA-SEGUNDA.md` → Partes 2, 5 e 8 do `SISTEMA.md` |
 | **Quem vai rodar a Mesa de segunda** | `MESA-SEGUNDA.md` (imprime) |
 | **Quem está montando um funil novo** | `SISTEMA.md` Parte 6 (multi-marca) + `COORDENADAS.md` |
 
 ## Como rodar
 
-Clone o repo, abra o Claude Code **dentro da pasta** e digite `/fabrica`. Passo a passo em
-**`ONBOARDING.md`**.
+Clone o repo, abra o Claude Code **dentro da pasta** e digite `/fabrica`.
+Passo a passo detalhado em **`INSTALACAO.md`**.
 
 ## Os arquivos
 
 | Arquivo | O que é |
 |---|---|
-| **`ONBOARDING.md`** | 👤 guia de instalação e uso para o copywriter — comece por aqui |
+| **`INSTALACAO.md`** | 👤 passo a passo para instalar o Claude Code e rodar — **comece por aqui** |
+| **`ONBOARDING.md`** | 👤 como usar no dia a dia, vocabulário e dúvidas comuns |
 | **`SISTEMA.md`** | a metodologia completa — leis, coordenadas, dispersão, semana, gates, multi-marca |
 | **`MESA-SEGUNDA.md`** | cartão de 1 página do ritual semanal. Imprime e cola na parede. |
 | **`COORDENADAS.md`** | a tabela canônica de códigos: 4 funis, 44 segmentos, 29 ângulos, 51 formatos, 4 porta-vozes |

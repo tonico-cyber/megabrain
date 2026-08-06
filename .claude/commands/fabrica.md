@@ -11,7 +11,7 @@ dispersão garantida entre eles.
 
 ## Constantes
 
-- `PROJ` = raiz do repositório megabrain (o cwd, se o comando roda de dentro dele)
+- `PROJ` = diretório do projeto Megabrain MeuFluxo (cwd atual deve ser ele).
 - `FABRICA` = `$PROJ/copymf/fabrica`
 - `COORD` = `$FABRICA/coordenadas.json` — funis, segmentos, ângulos, formatos, porta-voz
 - `SWIPE` = `$FABRICA/swipe.json` — as 102 peças classificadas (a fonte das gêmeas)

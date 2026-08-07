@@ -141,8 +141,38 @@ Escreva as N peças. Cada uma:
 
 ## Passo 7 — Entrega
 
-**No chat:** cada peça em bloco de código copiável. Título fora do bloco com o código completo
-(`M40+41 · S06 · NC-S · A29 · H2 · END · gJ20PIG023`). A linha de régua depois do bloco.
+### O cabeçalho de cada peça — formato OBRIGATÓRIO
+
+Toda peça sai com este cabeçalho, **por extenso**. Código sozinho não serve: quem lê tem que
+entender sem consultar tabela, e quem analisa depois precisa saber o que variar.
+
+```
+## <CÓDIGO> · Formato <cod> <nome> · Segmento <cod> <nome> · Ângulo <cod> <nome>
+
+**Nível de consciência:** <D|P|S> — <nome>  ·  **Porta-voz:** <cod> — <nome>  ·
+**Gêmea modelada:** <id>  ·  **Objeção ancorada:** <qual>
+
+`código: M40+41 · S12 · NC-D · A18 · H7 · EXP`
+```
+
+Exemplo real:
+
+```
+## M40+41 · Formato H7 Caixinha de perguntas · Segmento S12 Inchaço e retenção de líquido · Ângulo A18 Pergunta / Autodiagnóstico
+
+**Nível de consciência:** D — Descoberta  ·  **Porta-voz:** EXP — Suéllen (especialista)  ·
+**Gêmea modelada:** D3FSER069  ·  **Objeção ancorada:** sintomas soltos
+
+`código: M40+41 · S12 · NC-D · A18 · H7 · EXP`
+```
+
+**Por que assim:** a linha 1 dá as três coordenadas que mais mudam o resultado (formato, segmento,
+ângulo) em linguagem humana. A linha 2 dá o resto do contexto. A linha 3 é a string única que vai
+para o ledger, o nome do anúncio no Meta e a UTM. Quando uma peça vencer, é esse cabeçalho que
+diz **o que exatamente** venceu e **o que girar** para extrair mais dali.
+
+**No chat:** cada peça em bloco de código copiável, com o cabeçalho acima FORA do bloco. A linha
+de régua depois do bloco.
 
 **Em disco:** `$OUTPUT/AAAA-MM-DD-ad-<id>.md` com a Ordem de Produção no cabeçalho + todas as
 peças. Atualize a coluna Entregas em `brands/INDEX.md`.

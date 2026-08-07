@@ -163,6 +163,25 @@ Nunca o mesmo álibi em todas as peças do lote. Rodar entre:
 
 ---
 
+## 9. CABEÇALHO DA PEÇA — obrigatório e por extenso
+
+Nenhuma peça sai só com código. O cabeçalho tem que ser legível sem consultar tabela:
+
+```
+## M40+41 · Formato H7 Caixinha de perguntas · Segmento S12 Inchaço e retenção de líquido · Ângulo A18 Pergunta / Autodiagnóstico
+
+**Nível de consciência:** D — Descoberta  ·  **Porta-voz:** EXP — Suéllen (especialista)  ·
+**Gêmea modelada:** D3FSER069  ·  **Objeção ancorada:** sintomas soltos
+
+`código: M40+41 · S12 · NC-D · A18 · H7 · EXP`
+```
+
+**Motivo:** quando a peça vencer, o cabeçalho é o que responde *o que exatamente venceu* e
+*o que girar* para tirar mais daquela veia. Código puro obriga a consultar tabela e ninguém faz
+isso na correria.
+
+---
+
 ## Checklist de 60 segundos antes de mandar pro Gate 1
 
 - [ ] A frase mais forte está nos 5 primeiros segundos?
@@ -172,3 +191,4 @@ Nunca o mesmo álibi em todas as peças do lote. Rodar entre:
 - [ ] Tem número sensorial na solução (kg + prazo, cm, numeração)?
 - [ ] O CTA é diferente do da peça irmã?
 - [ ] Alguém que não escreveu vai julgar isso?
+- [ ] O cabeçalho tem formato, segmento e ângulo **por extenso**?

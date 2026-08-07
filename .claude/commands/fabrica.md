@@ -55,14 +55,15 @@ Execute o algoritmo de `$GERADOR`. Resumo operacional:
 **Distribuição:**
 - 80% modelagem · 20% wild card (em 20: 16 + 4)
 - Cobrir `clamp(round(N/3.5), 3, 7)` segmentos — em N=20, **6 segmentos com 3-4 peças cada**
-- NC: ~60% Problema · ~40% Solução-existente
+- NC: ~30% Descoberta · ~35% Problema · ~35% Solução-existente
 - Porta-voz: 40% EXP · 15% END · 30% VO · 15% ANI (renormaliza pelos disponíveis)
 - Fontes: ~metade swipe interno, ~metade externo (ou vencedores nossos, se houver ledger)
 
 **Compatibilidade ângulo × NC:**
-- **P:** A01 A02 A04 A06 A08 A10 A14 A18 A22 A23 A25 A28
+- **D (Descoberta):** A18 A08 A23 A22 A07 A10 A19 A26 — a peça liga sintomas soltos à causa
+- **P:** A01 A02 A04 A06 A10 A14 A22 A23 A25 A28
 - **S:** A03 A11 A13 A16 A17 A20 A21 A24 A26 A27 A29
-- *(A05 A07 A09 A12 A15 A19 servem aos dois)*
+- *(A05 A09 A12 A15 servem aos três)*
 
 **Compatibilidade formato × porta-voz:**
 - **EXP:** blocos A, D + H1 H6 H7 H8
@@ -83,7 +84,7 @@ Para **cada par** de peças do lote, some:
 |---|---|
 | Mecanismo/conceito diferente | 4 |
 | Segmento diferente | 3 |
-| Nível de consciência diferente | 3 |
+| Nível de consciência diferente (D/P/S) | 3 |
 | Ângulo diferente | 2 |
 | Formato (bloco) diferente | 2 |
 | Porta-voz diferente | 2 |

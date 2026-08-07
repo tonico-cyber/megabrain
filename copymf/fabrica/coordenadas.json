@@ -1,18 +1,24 @@
 {
-  "versao": "1.0",
-  "atualizado_em": "2026-08-05",
+  "versao": "2.0",
+  "atualizado_em": "2026-08-07",
   "fonte": "copymf/fabrica/COORDENADAS.md",
   "niveis_consciencia": [
     {
+      "codigo": "D",
+      "nome": "Descoberta",
+      "descricao": "sente sintomas soltos e NÃO sabe que são o mesmo problema (unaware de Schwartz)",
+      "serve_para": "maior pool, tráfego mais barato, topo de funil"
+    },
+    {
       "codigo": "P",
       "nome": "Problema",
-      "descricao": "sente o sintoma, não conhece a causa",
-      "serve_para": "volume, topo de funil"
+      "descricao": "sabe que tem o problema, não conhece a causa",
+      "serve_para": "volume"
     },
     {
       "codigo": "S",
       "nome": "Solucao-existente",
-      "descricao": "já está tentando algo do mercado (chá, caneta, low carb, caminhada)",
+      "descricao": "já está tentando algo do mercado (chá, caneta, low carb, fórmula manipulada, academia)",
       "serve_para": "venda, intenção maior"
     }
   ],
@@ -827,6 +833,28 @@
             "vegetariana/vegana achando que \"não é pra ela\"",
             "ouve que \"depois dos 40 é assim mesmo / é da menopausa / é genética\""
           ]
+        },
+        {
+          "codigo": "S11",
+          "nome": "Corpo pós-gestação",
+          "subsegmentos": [
+            "engordou na gravidez e nunca voltou ao que era",
+            "barriga que ficou depois do parto e não sai",
+            "'meu corpo nunca mais foi o mesmo depois que virei mãe'",
+            "não tem tempo para si desde que os filhos nasceram"
+          ]
+        },
+        {
+          "codigo": "S12",
+          "nome": "Inchaço e retenção de líquido",
+          "subsegmentos": [
+            "marca do elástico na pele meia hora depois",
+            "anel que aperta o dedo / não gira mais",
+            "abrir o botão da calça às cinco da tarde",
+            "inchaço nas pernas e tornozelos no fim do dia",
+            "rosto inchado ao acordar",
+            "acorda leve e vai inchando ao longo do dia"
+          ]
         }
       ]
     },
@@ -960,5 +988,48 @@
       "biblioteca_externa": 8,
       "wild": 4
     }
+  },
+  "angulos_por_nc": {
+    "D": [
+      "A18",
+      "A08",
+      "A23",
+      "A22",
+      "A07",
+      "A10",
+      "A19",
+      "A26"
+    ],
+    "P": [
+      "A01",
+      "A02",
+      "A04",
+      "A06",
+      "A10",
+      "A14",
+      "A22",
+      "A23",
+      "A25",
+      "A28"
+    ],
+    "S": [
+      "A03",
+      "A11",
+      "A13",
+      "A16",
+      "A17",
+      "A20",
+      "A21",
+      "A24",
+      "A26",
+      "A27",
+      "A29"
+    ],
+    "universais": [
+      "A05",
+      "A09",
+      "A12",
+      "A15"
+    ]
   }
 }

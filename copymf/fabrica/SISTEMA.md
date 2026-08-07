@@ -50,10 +50,28 @@ uma tabela de 20 linhas com essas oito colunas preenchidas.
 | 2 | **Corpo** | nasce novo, modelado da gêmea | o argumento: vilão + cadeia causal + analogia + método + prova + CTA |
 | 3 | **Hook** | nasce com o corpo | os 3-8 primeiros segundos |
 | 4 | **Segmento** | os 10 segmentos-mãe do Brand Context | a dor de que a peça fala |
-| 5 | **Nível de consciência** | **P** (problema) ou **S** (solução-existente) | por onde a peça entra na cabeça da pessoa |
+| 5 | **Nível de consciência** | **D** (descoberta) · **P** (problema) · **S** (solução-existente) | por onde a peça entra na cabeça da pessoa |
 | 6 | **Ângulo** | os 20 da `angulos/biblioteca.md` | o frame narrativo |
 | 7 | **Formato** | os 43 do `formatos/catalogo.md` (blocos A–G) | o recipiente |
 | 8 | **Porta-voz** | 4 modos (abaixo) | quem fala |
+
+## Os 3 níveis de consciência
+
+| Código | Nome | Onde a peça entra | Papel |
+|---|---|---|---|
+| **D** | **Descoberta** | ela sente sintomas soltos e **não sabe que são o mesmo problema** | **maior pool** · tráfego mais barato · abre o funil |
+| **P** | Problema | sabe que tem o problema, não conhece a causa | volume |
+| **S** | Solução-existente | já está tentando algo do mercado (chá, caneta, low carb, fórmula manipulada, academia) | **venda** — intenção maior |
+
+**Como se escreve uma peça de Descoberta:** ela liga sintomas que a mulher **nota mas nunca
+conectou** — a marca do elástico na pele meia hora depois, o anel que não gira mais, o botão da
+calça às cinco da tarde, o cabelo caindo, o sono que não descansa, a irritação que ela não
+reconhece como dela — e revela que **é tudo a mesma coisa**. Ela entra na peça sem saber que tem
+o problema e sai sabendo.
+
+> **Por que Descoberta é o nível mais barato:** ela alcança quem ainda não se procura como
+> "mulher tentando emagrecer" — um pool muito maior e menos disputado no leilão do que o de quem
+> já pesquisa dieta.
 
 ## Os 4 modos de porta-voz
 
@@ -132,7 +150,7 @@ Para cada par de peças que sobe **ao mesmo tempo**, some:
 |---|---|
 | Mecanismo ou conceito central diferente | **4** |
 | Segmento / dor diferente | **3** |
-| Nível de consciência diferente (P ↔ S) | **3** |
+| Nível de consciência diferente (D/P/S) | **3** |
 | Ângulo diferente | **2** |
 | Formato de bloco diferente (A–G) | **2** |
 | Porta-voz diferente (EXP/END/VO/ANI) | **2** |

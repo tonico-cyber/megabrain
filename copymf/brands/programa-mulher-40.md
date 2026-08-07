@@ -60,7 +60,7 @@ criado_em: 2026-07-16
 
 ## Segmentos (as DORES a bater — segmento-mãe → subsegmentos)
 
-> **Códigos S01–S10 são a nomenclatura oficial da fábrica.** Prefixo do funil: `M40+`.
+> **Códigos S01–S12 são a nomenclatura oficial da fábrica.** Prefixo do funil: `M40+`.
 > Referência agregada em `../fabrica/COORDENADAS.md` · versão para sistema em `../fabrica/coordenadas.json`.
 > Cada segmento-mãe é uma dor distinta; os subsegmentos são recortes concretos pra hook. Combine com qualquer persona compatível. Tudo conecta ao mecanismo (TNF-alfa trava o GLUT-4 / Método B.A.M.).
 
@@ -116,6 +116,20 @@ criado_em: 2026-07-16
 - vida social atrapalha (festa, almoço de família)
 - vegetariana/vegana achando que "não é pra ela"
 - ouve que "depois dos 40 é assim mesmo / é da menopausa / é genética"
+
+**S11 · Corpo pós-gestação**
+- engordou na gravidez e nunca voltou ao que era
+- barriga que ficou depois do parto e não sai
+- "meu corpo nunca mais foi o mesmo depois que virei mãe"
+- não tem tempo para si desde que os filhos nasceram
+
+**S12 · Inchaço e retenção de líquido**
+- marca do elástico na pele meia hora depois
+- anel que aperta o dedo / não gira mais
+- abrir o botão da calça às cinco da tarde
+- inchaço nas pernas e tornozelos no fim do dia
+- rosto inchado ao acordar
+- acorda leve e vai inchando ao longo do dia
 
 ## Ativos de copy reutilizáveis (da VSL)
 - Big Idea: "Não é o metabolismo, não é a menopausa, não é falta de força de vontade — é uma proteína (TNF-alfa) que a sua própria célula de gordura fabrica depois dos 40 e que desliga o motor que queima açúcar no seu músculo."

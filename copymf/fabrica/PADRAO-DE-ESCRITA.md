@@ -9,6 +9,45 @@
 
 ---
 
+## 0. O REGISTRO ACOLHEDOR — a base de tudo
+
+> Derivado de 745 comentários reais do avatar (ver `pesquisa/<marca>/banco-objecoes.md`).
+> Os comentários mais elogiados dizem, sem saber, exatamente o que a copy tem que ser.
+
+**O público premia quem não vende.** As frases que mais aparecem nos elogios:
+
+> *"Você fala de uma forma tão simples, que sou capaz de fazer também."*
+> *"Sem enrolação e sem propaganda de laboratório para comprar."*
+> *"Algo me dizia que você não viria com uma dieta milagrosa."*
+> *"Senti muita sinceridade. Tipo gente da gente, sabe?"*
+
+### As 5 regras do registro acolhedor
+
+**1. Reconhece antes de explicar.** Toda peça abre validando o que ela já viveu — inclusive o
+médico que a destratou e a dieta que falhou. Ela precisa se sentir vista antes de ouvir mecanismo.
+
+**2. Nunca desqualifica o que ela tentou.** Nem a fórmula manipulada, nem a academia, nem o chá,
+nem a caneta. Diz **por que não bastou**, sem chamar de burrice. Quem já se culpa não aguenta
+mais uma pessoa dizendo que ela errou.
+
+**3. Nada de milagre.** O público pune explicitamente. Concessão honesta em toda peça: o que o
+método não faz, quanto tempo leva de verdade.
+
+**4. O clique é o passo óbvio, não a venda.** A aula é *onde ela explica melhor*, não *onde ela
+vende*. O CTA sai como continuação da conversa — "eu explico direitinho lá", "deixa eu te mostrar
+com calma" — nunca como fechamento.
+
+**5. "Gente da gente".** Sem jaleco verbal, sem distância de autoridade. Ela é a mulher que
+descobriu e está contando, não a especialista que sabe mais que você.
+
+### O que quebra o acolhimento na hora
+
+❌ "Você está cometendo esse erro" · ❌ "Pare de fazer isso" como ordem · ❌ "A verdade que
+ninguém te conta" dito com superioridade · ❌ prometer prazo que não se cumpre · ❌ tratar a
+tentativa dela como ingenuidade
+
+---
+
 ## 1. FALA EMENDADA, NÃO STACCATO
 
 O maior defeito recorrente. Frase curta, ponto, frase curta, ponto, martelo de 3 palavras — isso

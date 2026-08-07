@@ -62,7 +62,7 @@ Some entre cada par que sobe junto:
 |---|---|
 | Mecanismo/conceito diferente | 4 |
 | Segmento (dor) diferente | 3 |
-| Nível de consciência diferente (P↔S) | 3 |
+| Nível de consciência diferente (D/P/S) | 3 |
 | Ângulo diferente | 2 |
 | Formato (bloco A–G) diferente | 2 |
 | Porta-voz diferente (EXP/END/VO/ANI) | 2 |

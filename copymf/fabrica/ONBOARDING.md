@@ -86,7 +86,12 @@ porta-voz).
 **Nunca** de um swipe de concorrente — número de concorrente pode ser inventado, e ao copiar a
 gente importa o problema dele.
 
-**5. Quem julga não é quem escreveu.** Peça sua sempre passa pelo olho de outra pessoa antes de ir
+**5. Não parece anúncio.** O público premia quem não vende — a gente descobriu isso lendo 745
+comentários reais. A peça reconhece antes de explicar, nunca desqualifica o que ela já tentou,
+nunca promete milagre, e o CTA sai como continuação da conversa ("eu explico direitinho lá"),
+nunca como fechamento. Detalhe na seção 0 do `PADRAO-DE-ESCRITA.md`.
+
+**6. Quem julga não é quem escreveu.** Peça sua sempre passa pelo olho de outra pessoa antes de ir
 para gravação.
 
 ---
@@ -98,13 +103,17 @@ para gravação.
 | **Gêmea** | o anúncio vencedor que você está modelando |
 | **Corpo** | o argumento: vilão + causa → efeito + analogia + método + prova + CTA |
 | **Segmento** | a dor de que a peça fala (S01, S02… — muda por funil) |
-| **NC** | nível de consciência: **P** (sente o sintoma) ou **S** (já está tentando algo do mercado) |
+| **NC** | nível de consciência: **D** (não sabe que tem o problema) · **P** (sente o sintoma) · **S** (já está tentando algo do mercado) |
 | **Ângulo** | o frame narrativo (A01 a A29) |
 | **Formato** | o recipiente: green screen, cozinha, videochamada, animação… (A1 a H8) |
 | **Porta-voz** | quem fala: **EXP** especialista · **END** alguém endossando ele · **VO** voice over · **ANI** animação |
 | **ID** | Índice de Dispersão — o quanto duas peças se afastam. Precisa ser ≥ 4 |
 
-> **Problema traz volume. Solução traz venda.** Um lote saudável tem os dois.
+> **Descoberta abre o funil. Problema traz volume. Solução traz venda.** Um lote saudável tem os três.
+
+**Peça de Descoberta** liga sintomas que ela nota mas nunca conectou — o anel que não gira, a
+marca do elástico, o cabelo caindo, o sono que não descansa — e revela que é tudo a mesma coisa.
+Ela entra sem saber que tem o problema e sai sabendo. É o pool maior e o tráfego mais barato.
 
 ---
 

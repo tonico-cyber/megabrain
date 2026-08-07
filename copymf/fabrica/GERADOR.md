@@ -90,7 +90,7 @@ Para N=20 → **6 segmentos**, com 3-4 peças cada.
 - **sem ledger:** rodízio round-robin sobre todos os segmentos do funil, começando pelos que
   têm mais subsegmentos (mais material = mais chance de hook)
 
-**Cota de nível de consciência:** 60% P · 40% S
+**Cota de nível de consciência:** 30% D (Descoberta) · 35% P · 35% S
 **Cota de porta-voz** (proporção; renormaliza se algum estiver indisponível):
 
 | Porta-voz | Proporção | Em N=20 |
@@ -119,10 +119,15 @@ Para cada slot de modelagem:
 
 | NC | Ângulos preferenciais |
 |---|---|
-| **P** | A01 A02 A04 A06 A08 A10 A14 A18 A22 A23 A25 A28 |
+| **D** | A18 A08 A23 A22 A07 A10 A19 A26 |
+| **P** | A01 A02 A04 A06 A10 A14 A22 A23 A25 A28 |
 | **S** | A03 A11 A13 A16 A17 A20 A21 A24 A26 A27 A29 |
 
-*(A05, A07, A09, A12, A15, A19 servem aos dois.)*
+*(A05, A09, A12, A15 servem aos três.)*
+
+> **Atenção ao buscar gêmea para NC-D:** o `swipe.json` só tem 7 peças classificadas como D
+> (Renan Ad 1 e 5, J20PIG 018, D3FSER069, EMMA Ad 4, Gina Sam Ad 3a e 5). Se o filtro por NC
+> não achar candidata, relaxe o critério de NC e priorize `hook_device == "sintoma numerado"`.
 
 **Compatibilidade formato × porta-voz:**
 
@@ -176,7 +181,7 @@ para cada par (i, j) de peças do lote:
 1. troca o FORMATO por outro bloco compatível com o porta-voz  → +2
 2. troca o PORTA-VOZ (se a cota permitir)                      → +2
 3. troca o ÂNGULO por outro compatível com o NC                → +2
-4. inverte o NC                                                → +3
+4. troca o NC (D↔P↔S)                                          → +3
 5. troca o SEGMENTO                                            → +3
 6. se ainda assim não passar → descarta o slot e avisa
 ```

@@ -50,6 +50,7 @@ Cada linha precisa das 8 coordenadas:
 
 ### Distribuição-alvo do lote
 
+- **Nível de consciência:** ~30% D (Descoberta) · ~35% P · ~35% S
 - **5-7 segmentos**, 3-4 peças cada
 - **Porta-voz:** 8 EXP · 3 END · 6 VO · 3 ANI (ajusta pela agenda; se o expert não grava, EXP vira VO/ANI)
 - **Fonte:** ~6 swipe interno · ~6 swipe externo · ~4 vencedor nosso · 4 wild

@@ -1,6 +1,6 @@
 {
- "versao": "1.0",
- "atualizado_em": "2026-08-05",
+ "versao": "1.1",
+ "atualizado_em": "2026-08-07",
  "descricao": "Índice das peças do swipe classificadas nas coordenadas canônicas. Usado pelo gerador de Ordem de Produção para sugerir a gêmea de cada peça nova.",
  "total": 102,
  "calibram_regua": 69,
@@ -442,7 +442,7 @@
    ],
    "formato_bloco": "F",
    "formato_codigo": "F1",
-   "nc": "P",
+   "nc": "D",
    "tamanho": "longo",
    "beat_map": "listicle-contrarian",
    "vilao": "fígado gorduroso e suas 5 consequências nomeadas (ectopic fat deposition, encefalopatia hepática, lipotoxicidade, cirrose, morte súbita)",
@@ -455,7 +455,8 @@
     "J20",
     "D3F"
    ],
-   "arquivo": "externos/emma-liver.md"
+   "arquivo": "externos/emma-liver.md",
+   "nc_anterior": "P"
   },
   {
    "id": "EMMA Ad 5",
@@ -653,7 +654,7 @@
    ],
    "formato_bloco": "F",
    "formato_codigo": "F3",
-   "nc": "S",
+   "nc": "D",
    "tamanho": "medio",
    "beat_map": "feed-medio-mecanismo",
    "vilao": "bactéria que paralisa o cólon (colon paralyzing bacteria)",
@@ -667,7 +668,8 @@
     "M40+",
     "J20"
    ],
-   "arquivo": "externos/gina-sam-constipation.md"
+   "arquivo": "externos/gina-sam-constipation.md",
+   "nc_anterior": "S"
   },
   {
    "id": "Gina Sam Ad 3b",
@@ -742,7 +744,7 @@
    ],
    "formato_bloco": "F",
    "formato_codigo": "F3",
-   "nc": "S",
+   "nc": "D",
    "tamanho": "medio",
    "beat_map": "feed-medio-mecanismo",
    "vilao": "síndrome do cocô de pedra (fecalith / stone poop syndrome)",
@@ -756,7 +758,8 @@
     "M40+",
     "UI"
    ],
-   "arquivo": "externos/gina-sam-constipation.md"
+   "arquivo": "externos/gina-sam-constipation.md",
+   "nc_anterior": "S"
   },
   {
    "id": "Gina Sam Ad 6",
@@ -792,7 +795,7 @@
    ],
    "formato_bloco": "A",
    "formato_codigo": "A5",
-   "nc": "P",
+   "nc": "D",
    "tamanho": "medio",
    "beat_map": "feed-medio-mecanismo",
    "vilao": "gordura no fígado (via resistência insulínica)",
@@ -805,7 +808,8 @@
     "J20",
     "D3F"
    ],
-   "arquivo": "externos/renan-botelho.md"
+   "arquivo": "externos/renan-botelho.md",
+   "nc_anterior": "P"
   },
   {
    "id": "Renan Ad 2",
@@ -903,7 +907,7 @@
    ],
    "formato_bloco": "A",
    "formato_codigo": "A6",
-   "nc": "P",
+   "nc": "D",
    "tamanho": "medio",
    "beat_map": "feed-medio-mecanismo",
    "vilao": "insulina alta",
@@ -916,7 +920,8 @@
     "J20",
     "M40+"
    ],
-   "arquivo": "externos/renan-botelho.md"
+   "arquivo": "externos/renan-botelho.md",
+   "nc_anterior": "P"
   },
   {
    "id": "Renan Ad 6",
@@ -1894,7 +1899,7 @@
    ],
    "formato_bloco": "F",
    "formato_codigo": "F3",
-   "nc": "S",
+   "nc": "D",
    "tamanho": "longo",
    "beat_map": "advertorial-longo",
    "vilao": "zonulina",
@@ -1908,7 +1913,8 @@
     "M40+",
     "J20"
    ],
-   "arquivo": "internos/dieta-das-3-fases.md"
+   "arquivo": "internos/dieta-das-3-fases.md",
+   "nc_anterior": "S"
   },
   {
    "id": "D3FSER073 (Stephany · Cristiane)",
@@ -2206,7 +2212,7 @@
    ],
    "formato_bloco": "A",
    "formato_codigo": "A1",
-   "nc": "P",
+   "nc": "D",
    "tamanho": "medio",
    "beat_map": "feed-medio-mecanismo",
    "vilao": "pâncreas hiperativo (fígado encharcado de gordura)",
@@ -2220,7 +2226,8 @@
     "D3F",
     "J20"
    ],
-   "arquivo": "internos/jejum-2-0.md"
+   "arquivo": "internos/jejum-2-0.md",
+   "nc_anterior": "P"
   },
   {
    "id": "J20PIG 023",
@@ -2917,5 +2924,6 @@
    ],
    "arquivo": "internos/ultra-inteligencia.md"
   }
- ]
+ ],
+ "nota_nc": "Reclassificação 07/ago/2026: as 102 peças foram classificadas quando o sistema só tinha 2 níveis (P e S). Com a entrada de NC-D (Descoberta), as peças que REVELAM à pessoa um problema que ela não sabia que tinha — via sintoma-espelho ou autoteste — foram remarcadas como D. Campo nc_anterior guarda a classificação original."
 }

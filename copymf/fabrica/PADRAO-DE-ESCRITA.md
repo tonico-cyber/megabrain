@@ -163,7 +163,46 @@ Nunca o mesmo álibi em todas as peças do lote. Rodar entre:
 
 ---
 
-## 9. CABEÇALHO DA PEÇA — obrigatório e por extenso
+## 9. A PIVÔ HONESTA — o device do formato receita
+
+> Modelado do swipe do Renan Botelho, que usa esse formato em **6 dos 8 ads** dele.
+
+O formato receita (H6) só funciona com este device. A estrutura:
+
+1. **Mostra o item na mão.** Não fala abstrato — pega o potinho, o gengibre, o pão.
+2. **Benefício de cada um, em rajada.** Um por vez, rápido, sem enrolação.
+3. **A PIVÔ:** *"Só que existe uma coisa muito melhor que esse chá pro seu…"*
+4. **A causa-raiz** entra como a explicação de por que o item não bastou.
+5. **CTA** como continuação.
+
+### A regra que faz o device funcionar
+
+**O item NUNCA é desqualificado.** O chá ajuda. A caminhada ajuda. A fórmula tem lógica.
+A peça diz que existe algo **melhor**, não que a pessoa foi boba.
+
+❌ "Chá não resolve nada, para de perder dinheiro"
+✅ "Toma o chá, ele ajuda. Mas o que desliga essa proteína não custa nada."
+
+Isso faz três coisas ao mesmo tempo:
+- **entrega valor real** — a pessoa sai com a receita mesmo se não clicar
+- **não desqualifica ninguém** — é o registro acolhedor da seção 0
+- **transforma o item em ponte** para o mecanismo, em vez de inimigo
+
+### Por que a versão "contra" fracassa
+
+A peça que diz *"chá não resolve"* frustra e não entrega nada. A pessoa sai com menos do que
+entrou. A versão do Renan entrega a receita **e** o motivo — e é isso que faz o formato parecer
+conteúdo em vez de anúncio.
+
+### Compliance no formato receita
+
+Sem dose terapêutica ("uma xícara de manhã", nunca "500 mg 2× ao dia"). Sem indicação clínica
+("ajuda a soltar líquido", nunca "trata retenção"). E a própria pivô protege: o porta-voz diz
+que o item **não é** o que resolve, e o que resolve é o campo dele.
+
+---
+
+## 10. CABEÇALHO DA PEÇA — obrigatório e por extenso
 
 Nenhuma peça sai só com código. O cabeçalho tem que ser legível sem consultar tabela:
 

@@ -199,6 +199,58 @@ E imprima o `copymf/fabrica/MESA-SEGUNDA.md`.
 
 ---
 
+# COMO ATUALIZAR (faça isso toda semana)
+
+O time atualiza a metodologia com frequência. Se você não atualizar, vai escrever com a régua
+velha e nem vai perceber.
+
+## No MAC
+
+1. Aperte **⌘ + ESPAÇO** (a tecla ⌘ fica ao lado da barra de espaço)
+2. Digite `terminal` e dê **ENTER**
+3. Cole esta linha e dê ENTER — não vai acontecer nada visível, é normal:
+```bash
+cd ~/Documents/megabrain
+```
+4. Cole esta e dê ENTER:
+```bash
+git pull
+```
+
+## No WINDOWS
+
+1. Aperte a tecla **WINDOWS** (a da janelinha, embaixo à esquerda)
+2. Digite `powershell` e dê **ENTER**
+3. Cole esta linha e dê ENTER:
+```powershell
+cd ~\Documents\megabrain
+```
+4. Cole esta e dê ENTER:
+```powershell
+git pull
+```
+
+> **No PowerShell, colar é com o BOTÃO DIREITO do mouse**, não com Ctrl+V.
+
+## Como saber se deu certo
+
+```bash
+git log --oneline -1
+```
+
+Aparece a última atualização com a descrição. Se for recente, está em dia.
+
+## Se der erro
+
+| O que apareceu | O que fazer |
+|---|---|
+| `Already up to date` | ✅ Já estava atualizado. Pode fechar. |
+| `no such file or directory` / `não foi possível encontrar` | A pasta está em outro lugar. Mande print. |
+| `Your local changes would be overwritten` | Você editou um arquivo do projeto sem querer. **Não faça nada** — chame o Nicolas. |
+| Qualquer outra coisa em vermelho | Print e manda. |
+
+---
+
 # SE DER PROBLEMA
 
 | O que aconteceu | O que fazer |
